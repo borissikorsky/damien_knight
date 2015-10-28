@@ -1,0 +1,22 @@
+Array
+(
+    [firstname] => Mo 
+    [lastname] =>  Raza
+    [email] => testcomapny@email.com
+    [password] => jackp
+    [comapanyname] => Test company 1
+    [nofieldworkers] => 54
+    [phoneno] => 07858 389053
+    [subdomain] => test-company-1
+)
+Array
+(
+    [firstname] => joker
+    [lastname] =>  
+    [email] => j@email.com
+    [password] => fjsdlkfjslk
+    [comapanyname] => joker
+    [nofieldworkers] => 45
+    [phoneno] => 01822323443
+    [subdomain] => joker
+)

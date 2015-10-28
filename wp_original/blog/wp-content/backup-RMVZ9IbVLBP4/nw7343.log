@@ -1,0 +1,7 @@
+#Fields:	date	time	type	message
+2015-10-14	05:26:27	NOTICE	Environment: Backup 2.2; WordPress 4.3.1; PHP 5.4.30; SAPI cgi-fcgi; OS Linux; ZIP 1.11.0; CURL 7.24.0; Time limit 600s; Memory limit 256M
+2015-10-14	05:26:27	NOTICE	Attempting to dump database.
+2015-10-14	05:26:28	NOTICE	The database dump was completed successfully in 0.889 seconds.
+2015-10-14	05:26:28	NOTICE	Attempting to create archive 'Workforce.FM-Blog-nw7343.zip'.
+2015-10-14	05:26:31	NOTICE	Successfully archived 98 files in 2.325 seconds. Archive file size is 5.53 MB.
+2015-10-14	05:26:31	NOTICE	Backup process completed in 4.231 seconds. Initial PHP memory usage was 30.25 MB and the backup process used another 7.25 MB of RAM.

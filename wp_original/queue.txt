@@ -1,0 +1,5385 @@
+Array
+(
+    [firstname] => weweqw
+    [lastname] =>  
+    [email] => sdfsdfsd@dsad.com
+    [password] => 123456
+    [comapanyname] => dsdfsd
+    [phoneno] => 121`212`1
+    [subdomain] => dsdfsd
+)
+Array
+(
+    [firstname] => Inext
+    [lastname] =>  
+    [email] => dharmender.inext@gmail.com
+    [password] => inext12345
+    [comapanyname] => Inext
+    [phoneno] => 
+    [subdomain] => inext
+)
+Array
+(
+    [firstname] => jb
+    [lastname] =>  
+    [email] => bj@fcgv.com
+    [password] => 888
+    [comapanyname] => hnk
+    [phoneno] => 09098777888
+    [subdomain] => hnk
+)
+Array
+(
+    [firstname] => Christian Hillebrand 
+    [lastname] =>  
+    [email] => christian@handymend.com
+    [password] => handyhandy
+    [comapanyname] => Handymend.com
+    [phoneno] => 02077311129
+    [subdomain] => handymend-com
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => arun@optiologic.com
+    [password] => 
+    [comapanyname] => 
+    [phoneno] => 
+    [subdomain] => vadophone
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => damien@squaredlight.com
+    [password] => 123456
+    [comapanyname] => handyman
+    [nofieldworkers] => 5
+    [phoneno] => 123456789
+    [subdomain] => handyman
+)
+Array
+(
+    [firstname] => Damien
+    [lastname] =>  
+    [email] => damien1@squaredlight.com
+    [password] => 123456
+    [comapanyname] => handyman
+    [nofieldworkers] => 3
+    [phoneno] => 123321456
+    [subdomain] => handyman
+)
+Array
+(
+    [firstname] => tod
+    [lastname] =>  
+    [email] => ttoshkov@gmail.com
+    [password] => 123456
+    [comapanyname] => todor
+    [nofieldworkers] => 1
+    [phoneno] => 07454738802
+    [subdomain] => todor
+)
+Array
+(
+    [firstname] => Neil
+    [lastname] =>  
+    [email] => neil@workforce.fm
+    [password] => password123
+    [comapanyname] => Test
+    [nofieldworkers] => 10
+    [phoneno] => 07825 617372
+    [subdomain] => test
+)
+Array
+(
+    [firstname] => Neil
+    [lastname] =>  
+    [email] => neil@neildesai.co
+    [password] => boomboom
+    [comapanyname] => Fictional Company
+    [nofieldworkers] => 12
+    [phoneno] => 07825 617372
+    [subdomain] => fictional-company
+)
+Array
+(
+    [firstname] => sc 
+    [lastname] =>  sdfsd
+    [email] => as@vuave.com
+    [password] => xallorg123
+    [comapanyname] => d sdfsfs
+    [nofieldworkers] => 10
+    [phoneno] => 85465230658
+    [subdomain] => d-sdfsfs
+)
+Array
+(
+    [firstname] => Andy 
+    [lastname] =>  Prior
+    [email] => andy@priority-care.co.uk
+    [password] => priority_77
+    [comapanyname] => Priority Care Group
+    [nofieldworkers] => 4
+    [phoneno] => 07540686615
+    [subdomain] => priority-care-group
+)
+Array
+(
+    [firstname] => Abe
+    [lastname] =>  
+    [email] => geopal@mailinator.com
+    [password] => test
+    [comapanyname] => ABE
+    [nofieldworkers] => 12
+    [phoneno] => 654654654
+    [subdomain] => abetest
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 075784454
+    [subdomain] => appliance-repairs-ltd
+)
+Array
+(
+    [firstname] => Russell 
+    [lastname] =>  Kennedy
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs ltd
+    [nofieldworkers] => 4
+    [phoneno] => 075784454
+    [subdomain] => appliance-repairs-ltd
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => optiologic@gmail.com
+    [password] => 
+    [comapanyname] => optiologic
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => optiologic
+)
+Array
+(
+    [firstname] => tony 
+    [lastname] =>  sclafani
+    [email] => tonys@arironllc.com
+    [password] => 1425Athol
+    [comapanyname] => AR IRON LLC
+    [nofieldworkers] => 6
+    [phoneno] => 7024297032
+    [subdomain] => arironllc
+)
+Array
+(
+    [firstname] => Russell 
+    [lastname] =>  Kennedy
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 5
+    [phoneno] => 075784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Russell 
+    [lastname] =>  Kennedy
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 075784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Jay
+    [lastname] =>  
+    [email] => installer@arated.com
+    [password] => 12345678
+    [comapanyname] => A rated Installers
+    [nofieldworkers] => 3
+    [phoneno] => 07850089740
+    [subdomain] => arated
+)
+Array
+(
+    [firstname] => Gregor 
+    [lastname] =>  Kristan
+    [email] => kristan.gregor@gmail.com
+    [password] => cyberdiva12
+    [comapanyname] => Rival - VTS
+    [nofieldworkers] => 11
+    [phoneno] => 0038640821565
+    [subdomain] => rival-vts
+)
+Array
+(
+    [firstname] => Kristan 
+    [lastname] =>  Gregor
+    [email] => kristan.gregor@gmail.com
+    [password] => cyberdiva12
+    [comapanyname] => Rival - VTS
+    [nofieldworkers] => 11
+    [phoneno] => 0038640821565
+    [subdomain] => rival-vts
+)
+Array
+(
+    [firstname] => Gregor 
+    [lastname] =>  Kristan
+    [email] => kristan.gregor@gmail.com
+    [password] => techaron
+    [comapanyname] => Rival Vts
+    [nofieldworkers] => 11
+    [phoneno] => 0038640821565
+    [subdomain] => rival-vts
+)
+Array
+(
+    [firstname] => Russell 
+    [lastname] =>  Kennedy
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6475784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 3
+    [phoneno] => 6175784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => James 
+    [lastname] =>  Richman
+    [email] => hello@jamesrichman.co.uk
+    [password] => JGprogra1989
+    [comapanyname] => James Richman UK
+    [nofieldworkers] => 5
+    [phoneno] => 07758952630
+    [subdomain] => JamesRichmanUK
+)
+Array
+(
+    [firstname] => Constantin
+    [lastname] =>  
+    [email] => cd@carmedia.es
+    [password] => carmedia
+    [comapanyname] => www.carmedia.es
+    [nofieldworkers] => 10
+    [phoneno] => 673007961
+    [subdomain] => carmedia
+)
+Array
+(
+    [firstname] => Constantin
+    [lastname] =>  
+    [email] => cd@carmedia.es
+    [password] => carmedia
+    [comapanyname] => carmedia
+    [nofieldworkers] => 300
+    [phoneno] => 673007961
+    [subdomain] => carmedia
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 075784454
+    [subdomain] => appliance-repairs-ltd
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 75784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Jonathan 
+    [lastname] =>  Bailey
+    [email] => Info@multitradebuildingsolutions.com
+    [password] => Conway12
+    [comapanyname] => Multi trade building solutions
+    [nofieldworkers] => 3
+    [phoneno] => 07961521386
+    [subdomain] => multi-trade-building-solutions
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6475789633
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Darren 
+    [lastname] =>  Fenton
+    [email] => darrenfenton@blueclarity.co.uk
+    [password] => astra2010
+    [comapanyname] => Blue Clarity
+    [nofieldworkers] => 5
+    [phoneno] => 07792 912 214
+    [subdomain] => blueclarity
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6475784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Roy
+    [lastname] =>  
+    [email] => roy@abkltd.co.uk
+    [password] => Silver557799
+    [comapanyname] => ABK Limited
+    [nofieldworkers] => 4
+    [phoneno] => 01494 465566
+    [subdomain] => abk-limited
+)
+Array
+(
+    [firstname] => Roy
+    [lastname] =>  
+    [email] => roy@abkltd.co.uk
+    [password] => Silver557799
+    [comapanyname] => ABK Ltd
+    [nofieldworkers] => 6
+    [phoneno] => Kinch
+    [subdomain] => abk-ltd
+)
+Array
+(
+    [firstname] => Fred
+    [lastname] =>  
+    [email] => fred@fred.com
+    [password] => password
+    [comapanyname] => Fred
+    [nofieldworkers] => 1
+    [phoneno] => 01234567888
+    [subdomain] => fred
+)
+Array
+(
+    [firstname] => Russell 
+    [lastname] =>  Kennedy
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6475784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => nick
+    [lastname] =>  
+    [email] => livechateb@aol.com
+    [password] => 123456
+    [comapanyname] => Investing
+    [nofieldworkers] => 2
+    [phoneno] => star
+    [subdomain] => investing
+)
+Array
+(
+    [firstname] => Christo
+    [lastname] =>  
+    [email] => christoyotov@mac.com
+    [password] => maxim878
+    [comapanyname] => Handy Team
+    [nofieldworkers] => 6
+    [phoneno] => 07500700592
+    [subdomain] => handy-team
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 075784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6475784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6175784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6175784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Liam 
+    [lastname] =>  Timms
+    [email] => Demonrepairs@gmail.com
+    [password] => Iamlegend1
+    [comapanyname] => Demon Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 07880197536
+    [subdomain] => demon-repairs
+)
+Array
+(
+    [firstname] => Liam 
+    [lastname] =>  Timms
+    [email] => Demonrepairs@gmail.com
+    [password] => Iamlegend1
+    [comapanyname] => Demon Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 07876458695
+    [subdomain] => demon-repairs
+)
+Array
+(
+    [firstname] => Tim 
+    [lastname] =>  Tow
+    [email] => timtow@monumentmail.com
+    [password] => tebow99
+    [comapanyname] => Towtwo
+    [nofieldworkers] => 5
+    [phoneno] => 4476739937333
+    [subdomain] => towtwo
+)
+Array
+(
+    [firstname] => Russell
+    [lastname] =>  
+    [email] => admin@appliancerepairsltd.co.nz
+    [password] => 3t742b9fg
+    [comapanyname] => Appliance Repairs
+    [nofieldworkers] => 4
+    [phoneno] => 6475784454
+    [subdomain] => appliance-repairs
+)
+Array
+(
+    [firstname] => Roy
+    [lastname] =>  
+    [email] => roy@abkltd.co.uk
+    [password] => abkltd
+    [comapanyname] => ABK Ltd
+    [nofieldworkers] => 10
+    [phoneno] => 07767465566
+    [subdomain] => abk-ltd
+)
+Array
+(
+    [firstname] => Charles 
+    [lastname] =>  Davison
+    [email] => charlie@powmedia.co.uk
+    [password] => wftest
+    [comapanyname] => Pow Media
+    [nofieldworkers] => 5
+    [phoneno] => 
+    [subdomain] => pow-media
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => lumi@tenways.co.uk
+    [password] => 
+    [comapanyname] => T
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => t
+)
+Array
+(
+    [firstname] => Lumi
+    [lastname] =>  
+    [email] => lumi@tenways.co.uk
+    [password] => qwerty
+    [comapanyname] => Ten
+    [nofieldworkers] => 2
+    [phoneno] => 07977051250
+    [subdomain] => ten
+)
+Array
+(
+    [firstname] => Shu
+    [lastname] =>  
+    [email] => joshd@walla.com
+    [password] => qwerty
+    [comapanyname] => D Climate
+    [nofieldworkers] => 2
+    [phoneno] => 02082018022
+    [subdomain] => d-climate
+)
+Array
+(
+    [firstname] => Brad 
+    [lastname] =>  Lynch
+    [email] => hahcroydon@gmail.com
+    [password] => senna1
+    [comapanyname] => Hire A Hubby Croydon
+    [nofieldworkers] => 2
+    [phoneno] => +61447648911
+    [subdomain] => hahcroydon
+)
+Array
+(
+    [firstname] => Brad 
+    [lastname] =>  Lynch
+    [email] => hahcroydon@gmail.com
+    [password] => senna1
+    [comapanyname] => Hire A Hubby Croydon
+    [nofieldworkers] => 2
+    [phoneno] => +61447648911
+    [subdomain] => hahcroydon
+)
+Array
+(
+    [firstname] => Carron 
+    [lastname] =>  Henderson
+    [email] => carron@carroncleaners.com
+    [password] => 1259169
+    [comapanyname] => Carron Dry Cleaners
+    [nofieldworkers] => 1
+    [phoneno] => 214-380-9131
+    [subdomain] => carron-dry-cleaners
+)
+Array
+(
+    [firstname] => Chris 
+    [lastname] =>  Clark
+    [email] => chris.clark@empressconnect.com
+    [password] => emc02@empressconnect
+    [comapanyname] => EmpressConnect Limited
+    [nofieldworkers] => 2
+    [phoneno] => 01618776612
+    [subdomain] => empressconnect
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Brown
+    [email] => office@tinyfootprint.co.uk
+    [password] => Orange12
+    [comapanyname] => Tinyfootprint Ltd T/As Buildkraft
+    [nofieldworkers] => 5
+    [phoneno] => 01689851111
+    [subdomain] => tinyfootprint-ltd-t-as-buildkraft
+)
+Array
+(
+    [firstname] => Chris 
+    [lastname] =>  Clark
+    [email] => chris.clark@empressconnect.com
+    [password] => emc02
+    [comapanyname] => EmpressConnect
+    [nofieldworkers] => 2
+    [phoneno] => 01618776612
+    [subdomain] => empressconnect
+)
+Array
+(
+    [firstname] => Andrew 
+    [lastname] =>  Jayasuriya
+    [email] => ceycaxj@googlemail.com
+    [password] => Matrix2013
+    [comapanyname] => Landlord Certificates
+    [nofieldworkers] => 12
+    [phoneno] => 02088810047
+    [subdomain] => landlord-certificates
+)
+Array
+(
+    [firstname] => sarah
+    [lastname] =>  
+    [email] => nuit-sacree@hotmail.com
+    [password] => zakaria
+    [comapanyname] => demo immobilier
+    [nofieldworkers] => 4
+    [phoneno] => 
+    [subdomain] => demo-immobilier
+)
+Array
+(
+    [firstname] =>  Toni de 
+    [lastname] =>  Sousa
+    [email] =>  t.desousa@yellotec.com
+    [password] => bigmac
+    [comapanyname] => Yellotec
+    [nofieldworkers] => 25
+    [phoneno] => +27 11 6569111
+    [subdomain] => yellotec
+)
+Array
+(
+    [firstname] => Toni de 
+    [lastname] =>  Sousa
+    [email] => t.desousa@yellotec.com
+    [password] => bigmac
+    [comapanyname] => Yellotec
+    [nofieldworkers] => 25
+    [phoneno] => +26116569111
+    [subdomain] => yellotec
+)
+Array
+(
+    [firstname] => Anthony 
+    [lastname] =>  Smith
+    [email] => info@useus.co.uk
+    [password] => Matrix2003
+    [comapanyname] => Andy Plumbers
+    [nofieldworkers] => 2
+    [phoneno] => 08000248787
+    [subdomain] => andy-plumbers
+)
+Array
+(
+    [firstname] => Simon
+    [lastname] =>  
+    [email] => costarepairs@gmail.com
+    [password] => bordel86
+    [comapanyname] => CCRS
+    [nofieldworkers] => 1
+    [phoneno] => 07772939360
+    [subdomain] => ccrs
+)
+Array
+(
+    [firstname] => Simon 
+    [lastname] =>  gill
+    [email] => costarepairs@gmail.com
+    [password] => bordel86
+    [comapanyname] => ccrs
+    [nofieldworkers] => 1
+    [phoneno] => 07772939360
+    [subdomain] => ccrs
+)
+Array
+(
+    [firstname] => Roger
+    [lastname] =>  
+    [email] => rhicks@michianapestservices.com
+    [password] => one989
+    [comapanyname] => Michiana Pest Services
+    [nofieldworkers] => 1
+    [phoneno] => 2195610888
+    [subdomain] => mps
+)
+Array
+(
+    [firstname] => herman
+    [lastname] =>  
+    [email] => info@theitvan.co.uk
+    [password] => Gnute33
+    [comapanyname] => itvan
+    [nofieldworkers] => 1
+    [phoneno] => 34543534534
+    [subdomain] => itvan
+)
+Array
+(
+    [firstname] => jaime
+    [lastname] =>  
+    [email] => c1213808@drdrb.com
+    [password] => Olvido
+    [comapanyname] => test360
+    [nofieldworkers] => 5
+    [phoneno] => 301443123
+    [subdomain] => test360
+)
+Array
+(
+    [firstname] => Louis
+    [lastname] =>  
+    [email] => lvanamelsvoort@kwb.nl
+    [password] => yamaha
+    [comapanyname] => kwb
+    [nofieldworkers] => 5
+    [phoneno] => 063072909693
+    [subdomain] => kwb
+)
+Array
+(
+    [firstname] => Rachel 
+    [lastname] =>  Millington
+    [email] => sweepmeservices@gmail.com
+    [password] => 7368cat
+    [comapanyname] => Sweep-Me Serices
+    [nofieldworkers] => 1
+    [phoneno] => 07856268501
+    [subdomain] => sweep-me-serices
+)
+Array
+(
+    [firstname] => Louise
+    [lastname] =>  
+    [email] => louise@foxleys.com
+    [password] => frankie1
+    [comapanyname] => Foxleys Limited
+    [nofieldworkers] => 8
+    [phoneno] => 07791846992
+    [subdomain] => foxleys-limited
+)
+Array
+(
+    [firstname] => 4u2gok
+    [lastname] =>  
+    [email] => 4u2gok@gmail.com
+    [password] => 4u2gok0987654321
+    [comapanyname] => 4u2gok
+    [nofieldworkers] => 5
+    [phoneno] => 
+    [subdomain] => 4u2gok
+)
+Array
+(
+    [firstname] => James
+    [lastname] =>  
+    [email] => techplc@maildrop.cc
+    [password] => password
+    [comapanyname] => Tech PLC
+    [nofieldworkers] => 12
+    [phoneno] => 07878384783
+    [subdomain] => tech-plc
+)
+Array
+(
+    [firstname] => Trevor
+    [lastname] =>  
+    [email] => trevor@completepestcontrol.ie
+    [password] => completepest
+    [comapanyname] => Complete Pest Control
+    [nofieldworkers] => 6
+    [phoneno] => 00353 1 4509812
+    [subdomain] => complete-pest-control
+)
+Array
+(
+    [firstname] => Trevor 
+    [lastname] =>  Hayden
+    [email] => trevor@completepestcontrol.ie
+    [password] => completepest
+    [comapanyname] => Complete Pest Control 
+    [nofieldworkers] => 6
+    [phoneno] => 00353  1  4509812
+    [subdomain] => complete-pest-control
+)
+Array
+(
+    [firstname] => shira
+    [lastname] =>  
+    [email] => shirasayablack@yahoo.com
+    [password] => bloqmayus
+    [comapanyname] => Student
+    [nofieldworkers] => 2
+    [phoneno] => +5411 465461654
+    [subdomain] => student
+)
+Array
+(
+    [firstname] => Nawaf 
+    [lastname] =>  Alshafei
+    [email] => nawaf@cinqomedia.com
+    [password] => 999999
+    [comapanyname] => Cinqomedia
+    [nofieldworkers] => 0
+    [phoneno] => 0097339637388
+    [subdomain] => cinqomedia
+)
+Array
+(
+    [firstname] => Gabriel 
+    [lastname] =>  Oosthuizen
+    [email] => info@techiman.co.uk
+    [password] => Gnute33
+    [comapanyname] => Techiman
+    [nofieldworkers] => 1
+    [phoneno] => 447955499467
+    [subdomain] => 447955499467
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Lawson
+    [email] => info@eco-clean.co.uk
+    [password] => newthrums2
+    [comapanyname] => EcoClean
+    [nofieldworkers] => 5
+    [phoneno] => 08455194011
+    [subdomain] => ecoclean
+)
+Array
+(
+    [firstname] => Steve 
+    [lastname] =>  Kent
+    [email] => sjkent@hotmail.co.uk
+    [password] => passat140
+    [comapanyname] => Kent Alarms Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 07946 975797
+    [subdomain] => kent-alarms-ltd
+)
+Array
+(
+    [firstname] => Mo 
+    [lastname] =>  Raza
+    [email] => m_w_raza@hotmail.com
+    [password] => k3vinmitnick
+    [comapanyname] => Mo Enterprises
+    [nofieldworkers] => 10
+    [phoneno] => 07858 389053
+    [subdomain] => mo-enterprises
+)
+Array
+(
+    [firstname] => JInesh 
+    [lastname] =>  Shah
+    [email] => jineshshah1@googlemail.com
+    [password] => jineshshah1
+    [comapanyname] => Only Clarity
+    [nofieldworkers] => 1
+    [phoneno] => 07825151413
+    [subdomain] => onlyclarity
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => damiensddf@sada.com
+    [password] => 123456
+    [comapanyname] => damo
+    [nofieldworkers] => 2
+    [phoneno] => 123456
+    [subdomain] => damo
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => test
+    [password] => sfhldjflsie
+    [comapanyname] => test
+    [nofieldworkers] => 29
+    [phoneno] => 01234567789
+    [subdomain] => test
+)
+Array
+(
+    [firstname] => testt
+    [lastname] =>  
+    [email] => testt
+    [password] => testt
+    [comapanyname] => testt testt
+    [nofieldworkers] => testt
+    [phoneno] => testt
+    [subdomain] => testt-testt
+)
+Array
+(
+    [firstname] => Akshat
+    [lastname] =>  
+    [email] => uniqueusc@gmail.com
+    [password] => 2uni11ak175
+    [comapanyname] => Unique Innovations
+    [nofieldworkers] => 5
+    [phoneno] => 9810406140
+    [subdomain] => unique-innovations
+)
+Array
+(
+    [firstname] => Dobby
+    [lastname] =>  
+    [email] => motofun@yandex.ru
+    [password] => STEP46
+    [comapanyname] => Dobby
+    [nofieldworkers] => 2
+    [phoneno] => 
+    [subdomain] => dobby
+)
+Array
+(
+    [firstname] => Andy
+    [lastname] =>  
+    [email] => anthrax@list.ru
+    [password] => uyecvfcworkforce
+    [comapanyname] => andy
+    [nofieldworkers] => 1
+    [phoneno] => +380958786682
+    [subdomain] => andy
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => sadasd@sdasd.com
+    [password] => 123456
+    [comapanyname] => test
+    [nofieldworkers] => 3
+    [phoneno] => 123456
+    [subdomain] => test100
+)
+Array
+(
+    [firstname] => Gary
+    [lastname] =>  
+    [email] => justrememberthis1@gmail.com
+    [password] => 91827364
+    [comapanyname] => Total Home Improvement Services
+    [nofieldworkers] => 1
+    [phoneno] => 678/615-8447
+    [subdomain] => total-home-improvement-services
+)
+Array
+(
+    [firstname] => jim
+    [lastname] =>  
+    [email] => jw_watson@hotmail.co.uk
+    [password] => 123456jim
+    [comapanyname] => jw construction
+    [nofieldworkers] => 4
+    [phoneno] => 07725639997
+    [subdomain] => jw_construction
+)
+Array
+(
+    [firstname] => Ben 
+    [lastname] =>  Acock
+    [email] => Benacock@hotmail.com
+    [password] => Electrical
+    [comapanyname] => Evolution electrical contracting
+    [nofieldworkers] => 2
+    [phoneno] => 07800647426
+    [subdomain] => evolution-electrical
+)
+Array
+(
+    [firstname] => Ben 
+    [lastname] =>  Acock
+    [email] => benacock@hotmail.com
+    [password] => electrical
+    [comapanyname] => Evolution Electrical
+    [nofieldworkers] => 2
+    [phoneno] => 07800 647426
+    [subdomain] => evolution-electrical
+)
+Array
+(
+    [firstname] => Ben 
+    [lastname] =>  Acock
+    [email] => benacock@gmail.com
+    [password] => benacock
+    [comapanyname] => Evolution Electrical Contracting
+    [nofieldworkers] => 2
+    [phoneno] => 07800647426
+    [subdomain] => evolution-electrical-contracting
+)
+Array
+(
+    [firstname] => ben 
+    [lastname] =>  acock
+    [email] => benacock@gmail.com
+    [password] => benacock
+    [comapanyname] => bae
+    [nofieldworkers] => 1
+    [phoneno] => 07800 647426
+    [subdomain] => bae
+)
+Array
+(
+    [firstname] => ben 
+    [lastname] =>  acok
+    [email] => benaock@hotmail.com
+    [password] => electrical
+    [comapanyname] => evolution Electrical Contracting
+    [nofieldworkers] => 2
+    [phoneno] => 07800647426
+    [subdomain] => evolution-electrical-contracting
+)
+Array
+(
+    [firstname] => Nandish
+    [lastname] =>  
+    [email] => nandish.haria@gmail.com
+    [password] => kitkat
+    [comapanyname] => ABC
+    [nofieldworkers] => 5
+    [phoneno] => 
+    [subdomain] => abc
+)
+Array
+(
+    [firstname] => ben 
+    [lastname] =>  acock
+    [email] => benacock@hotmail.com
+    [password] => electrical
+    [comapanyname] => evolution Electrical Contracting
+    [nofieldworkers] => 2
+    [phoneno] => 07800 647426
+    [subdomain] => evolution
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Waldron
+    [email] => davidwaldron@outlook.com
+    [password] => fieldservice
+    [comapanyname] => Opal UK
+    [nofieldworkers] => 2
+    [phoneno] => 
+    [subdomain] => opal-uk
+)
+Array
+(
+    [firstname] => Laurence 
+    [lastname] =>  Husband
+    [email] => info@industrialheaterssouthern.co.uk
+    [password] => industheat
+    [comapanyname] => industrial heaters
+    [nofieldworkers] => 10
+    [phoneno] => 01590 623244
+    [subdomain] => industrial-heaters
+)
+Array
+(
+    [firstname] => Howard 
+    [lastname] =>  Lewis
+    [email] => howard.lewis@i-d8.com
+    [password] => pole9user
+    [comapanyname] => i-d8
+    [nofieldworkers] => 4
+    [phoneno] => 07733692939
+    [subdomain] => i-d8
+)
+Array
+(
+    [firstname] => Jay
+    [lastname] =>  
+    [email] => trial2@leaky-cauldron.com
+    [password] => Rachworkforce1
+    [comapanyname] => testaccount
+    [nofieldworkers] => 10
+    [phoneno] => 1234567
+    [subdomain] => testaccount
+)
+Array
+(
+    [firstname] => Katy 
+    [lastname] =>  Carlisle
+    [email] => hello@thewheelexists.com
+    [password] => wmetptybn
+    [comapanyname] => The Wheel Exists
+    [nofieldworkers] => 5
+    [phoneno] => 07779115973
+    [subdomain] => thewheelexists
+)
+Array
+(
+    [firstname] => David
+    [lastname] =>  
+    [email] => info@fieldservice.com
+    [password] => 12345678
+    [comapanyname] => field service
+    [nofieldworkers] => 3
+    [phoneno] => 4123456789
+    [subdomain] => field-service
+)
+Array
+(
+    [firstname] => Sean 
+    [lastname] =>  Holmes
+    [email] => holmesplumbing@hotmail.co.uk
+    [password] => leeds4387
+    [comapanyname] => Holmes Plumbing and Heating
+    [nofieldworkers] => 1
+    [phoneno] => 07944046921
+    [subdomain] => holmes-plumbing-and-heating
+)
+Array
+(
+    [firstname] => Phil
+    [lastname] =>  
+    [email] => phil@marshallsplumbing.co.uk
+    [password] => HARRY2011
+    [comapanyname] => Marshalls Plumbing & Heating Ltd
+    [nofieldworkers] => 1
+    [phoneno] => 01625 541349
+    [subdomain] => marshalls-plumbing-heating-ltd
+)
+Array
+(
+    [firstname] => skdjfnsd
+    [lastname] =>  
+    [email] => asdkfjh@sdkfjhsdkfj.com
+    [password] => qwertyuiop
+    [comapanyname] => kjsghdf
+    [nofieldworkers] => 12
+    [phoneno] => 07888555666
+    [subdomain] => kjsghdf
+)
+Array
+(
+    [firstname] => Kelly
+    [lastname] =>  
+    [email] => keloreilly@gmail.com
+    [password] => willow123@
+    [comapanyname] => 24 Heating 
+    [nofieldworkers] => 7
+    [phoneno] => 07800898498
+    [subdomain] => 24-heating
+)
+Array
+(
+    [firstname] => Kelly
+    [lastname] =>  
+    [email] => keloreilly@gmail.com
+    [password] => willow123@
+    [comapanyname] => 24 Heating
+    [nofieldworkers] => 7
+    [phoneno] => 07800898498
+    [subdomain] => 24-heating
+)
+Array
+(
+    [firstname] => Ben
+    [lastname] =>  
+    [email] => Gbs0808@yahoo.com
+    [password] => 081198
+    [comapanyname] => Atlantis
+    [nofieldworkers] => 3
+    [phoneno] => 6466424304
+    [subdomain] => atlantis
+)
+Array
+(
+    [firstname] => Ben
+    [lastname] =>  
+    [email] => Gbs0808@yahoo.com
+    [password] => 081198
+    [comapanyname] => Atlantis
+    [nofieldworkers] => 3
+    [phoneno] => 6466425304
+    [subdomain] => atlantis
+)
+Array
+(
+    [firstname] => Ray
+    [lastname] =>  
+    [email] => ray.mcveigh@ipropsolutions.co.uk
+    [password] => iprop4dm1n
+    [comapanyname] => Intelligent Property Solutions
+    [nofieldworkers] => 2-3
+    [phoneno] => 0845 862 5558
+    [subdomain] => intelligent-property-solutions
+)
+Array
+(
+    [firstname] => Ben 
+    [lastname] =>  Acock
+    [email] => Benacock@hotmail.com
+    [password] => Electrical
+    [comapanyname] => Evolution electrical
+    [nofieldworkers] => 2
+    [phoneno] => 07800647426
+    [subdomain] => evolution-electrical
+)
+Array
+(
+    [firstname] => J 
+    [lastname] =>  Kanbi
+    [email] => jkanbi@hotmail.com
+    [password] => password
+    [comapanyname] => J Kanbi
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => jkanbi
+)
+Array
+(
+    [firstname] => Tom 
+    [lastname] =>  Murrihy
+    [email] => Tom.regent@hotmail.com
+    [password] => Enterprise
+    [comapanyname] => Regent Refrigeration 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => regent-refrigeration
+)
+Array
+(
+    [firstname] => Tom 
+    [lastname] =>  murrihy
+    [email] => Regentrefrigeration@googlemail.com
+    [password] => Enterprise
+    [comapanyname] => Regent refrigeration
+    [nofieldworkers] => 5
+    [phoneno] => 07815445474
+    [subdomain] => regent-refrigeration
+)
+Array
+(
+    [firstname] => Katy 
+    [lastname] =>  Carlisle
+    [email] => hello@thewheelexists.com
+    [password] => wmetptybn
+    [comapanyname] => The Wheel Exists
+    [nofieldworkers] => 1
+    [phoneno] => 07779115973
+    [subdomain] => thewheelexists
+)
+Array
+(
+    [firstname] => darren
+    [lastname] =>  
+    [email] => darren@newbyplumbing.co.uk
+    [password] => p1nzance
+    [comapanyname] => newby energy services 
+    [nofieldworkers] => 2
+    [phoneno] => 01736360354
+    [subdomain] => newby-energy-services
+)
+Array
+(
+    [firstname] => Darren 
+    [lastname] =>  Newby
+    [email] => darren@newbyplumbing.co.uk
+    [password] => coca2727
+    [comapanyname] => newby energy services
+    [nofieldworkers] => 2
+    [phoneno] => 01736360354
+    [subdomain] => newby-energy-services
+)
+Array
+(
+    [firstname] => Vicki 
+    [lastname] =>  Richards
+    [email] => vicki@servicecause.com
+    [password] => amelia5755
+    [comapanyname] => Servicecause Limited
+    [nofieldworkers] => 6
+    [phoneno] => 02084889830
+    [subdomain] => servicecause-limited
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => vicki@servicecause.com
+    [password] => amelia5755
+    [comapanyname] => Servicecause Limited
+    [nofieldworkers] => 3
+    [phoneno] => 02084889830
+    [subdomain] => servicecause-limited
+)
+Array
+(
+    [firstname] => Jay
+    [lastname] =>  
+    [email] => jay@goodrowdoorsolutions.com
+    [password] => Cheetah1
+    [comapanyname] => GDS
+    [nofieldworkers] => 2
+    [phoneno] => 781-413-4990
+    [subdomain] => gds
+)
+Array
+(
+    [firstname] => Joel
+    [lastname] =>  
+    [email] => joel@jrs.net.au
+    [password] => Corporation7
+    [comapanyname] => JR\'S Property Services
+    [nofieldworkers] => 2
+    [phoneno] => 61422416890
+    [subdomain] => jr-s-property-services
+)
+Array
+(
+    [firstname] => Joel
+    [lastname] =>  
+    [email] => joel@jrs.net.au
+    [password] => Corporation7
+    [comapanyname] => JR\'S Property Services
+    [nofieldworkers] => 2
+    [phoneno] => 61422416890
+    [subdomain] => jr-s-property-services
+)
+Array
+(
+    [firstname] => Andrew
+    [lastname] =>  
+    [email] => andrewrobertday@me.com
+    [password] => Ostermeier
+    [comapanyname] => Travtus
+    [nofieldworkers] => 1
+    [phoneno] => +91 8879 649994
+    [subdomain] => travtus
+)
+Array
+(
+    [firstname] => Wesley
+    [lastname] =>  
+    [email] => wesley@kenfield.com
+    [password] => pvcstrip
+    [comapanyname] => Kenfield Ltd
+    [nofieldworkers] => 6
+    [phoneno] => 0121 451 3051
+    [subdomain] => kenfield-ltd
+)
+Array
+(
+    [firstname] => Kowtha
+    [lastname] =>  
+    [email] => rameshkowtha17@gmail.com
+    [password] => 
+    [comapanyname] => Ramesh
+    [nofieldworkers] => 40
+    [phoneno] => 9884250162
+    [subdomain] => ramesh
+)
+Array
+(
+    [firstname] => craig 
+    [lastname] =>  firth
+    [email] => craig@gfaltd.co.uk
+    [password] => Jacobfirth4
+    [comapanyname] => GFA GASTECH LTD
+    [nofieldworkers] => 3
+    [phoneno] => 01670 353377
+    [subdomain] => gfa-gastech-ltd
+)
+Array
+(
+    [firstname] => Damon
+    [lastname] =>  
+    [email] => damonh@cogentllc.com
+    [password] => Camdyberk3
+    [comapanyname] => Hassler Heating
+    [nofieldworkers] => 15
+    [phoneno] => Hedgspeth
+    [subdomain] => HHAC
+)
+Array
+(
+    [firstname] => Tom
+    [lastname] =>  
+    [email] => regentrefrigeration@googlemail.com
+    [password] => enterprise
+    [comapanyname] => Regent Refrigeration
+    [nofieldworkers] => 5
+    [phoneno] => 07815445474
+    [subdomain] => regent-refrigeration
+)
+Array
+(
+    [firstname] => chris 
+    [lastname] =>  clark
+    [email] => chris.clark@totalsec.co.uk
+    [password] => barton635
+    [comapanyname] => total security solutions limited
+    [nofieldworkers] => 1
+    [phoneno] => 01618776612
+    [subdomain] => total-security-solutions-limited
+)
+Array
+(
+    [firstname] => david 
+    [lastname] =>  grayland
+    [email] => david.grayland@gmail.com
+    [password] => lbhicks123
+    [comapanyname] => gsoh
+    [nofieldworkers] => 1
+    [phoneno] => 07970937229
+    [subdomain] => gsoh
+)
+Array
+(
+    [firstname] => shira
+    [lastname] =>  
+    [email] => shirasayablack@gmail.com
+    [password] => bloqmayus
+    [comapanyname] => Student
+    [nofieldworkers] => 2
+    [phoneno] => 5411 654656654
+    [subdomain] => student
+)
+Array
+(
+    [firstname] => Ben 
+    [lastname] =>  Acock
+    [email] => Benacock@hotmail.com
+    [password] => Electrical
+    [comapanyname] => Evolution electrical 
+    [nofieldworkers] => 2
+    [phoneno] => 07800647426
+    [subdomain] => evolution-electrical
+)
+Array
+(
+    [firstname] => ben 
+    [lastname] =>  acock
+    [email] => benacock@hotmail.com
+    [password] => electrical
+    [comapanyname] => evolution electrical
+    [nofieldworkers] => 2
+    [phoneno] => 07800 647426
+    [subdomain] => evolution-electrical
+)
+Array
+(
+    [firstname] => Penny 
+    [lastname] =>  Lee
+    [email] => ginly@yandex.ru
+    [password] => sodalara
+    [comapanyname] => Maya
+    [nofieldworkers] => 12
+    [phoneno] => 
+    [subdomain] => maya
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Linehan
+    [email] => admin@carkeycompany.net
+    [password] => L0cksmith
+    [comapanyname] => Car Key Company
+    [nofieldworkers] => 3
+    [phoneno] => 07581218500
+    [subdomain] => car-key-company
+)
+Array
+(
+    [firstname] => John
+    [lastname] =>  
+    [email] => canningpoolcentre@iinet.net.au
+    [password] => chlorine
+    [comapanyname] => Canning Pool & Pump Centre
+    [nofieldworkers] => 3
+    [phoneno] => 08 93907040
+    [subdomain] => canning-pool-pump-centre
+)
+Array
+(
+    [firstname] => Philip 
+    [lastname] =>  Halpin
+    [email] => accounts@countrywide-pestcontrol.com
+    [password] => 113488Ph
+    [comapanyname] => Countrywide
+    [nofieldworkers] => 3
+    [phoneno] => 01635766007
+    [subdomain] => countrywide
+)
+Array
+(
+    [firstname] => Dean
+    [lastname] =>  
+    [email] => dean@evo.pm
+    [password] => redstone10
+    [comapanyname] => EVO
+    [nofieldworkers] => 10
+    [phoneno] => 07738635015
+    [subdomain] => evo
+)
+Array
+(
+    [firstname] => Dean
+    [lastname] =>  
+    [email] => dean@evo.pm
+    [password] => redstone10
+    [comapanyname] => EVO
+    [nofieldworkers] => 10
+    [phoneno] => 07738635015
+    [subdomain] => evo
+)
+Array
+(
+    [firstname] => Taylor
+    [lastname] =>  
+    [email] => Taylorlinn_2008@hotmail.com
+    [password] => Plumbing
+    [comapanyname] => Davis plumbing
+    [nofieldworkers] => 2
+    [phoneno] => 2565200379
+    [subdomain] => davis-plumbing
+)
+Array
+(
+    [firstname] => Test
+    [lastname] =>  
+    [email] => test@test.com
+    [password] => test
+    [comapanyname] => Test
+    [nofieldworkers] => 80
+    [phoneno] => 01423528907
+    [subdomain] => test
+)
+Array
+(
+    [firstname] => Mark 
+    [lastname] =>  Wilkinson
+    [email] => mark@rishwoodhomes.co.uk
+    [password] => Jaguar23000
+    [comapanyname] => Rishwood Homes Ltd
+    [nofieldworkers] => 2
+    [phoneno] => 01254414425
+    [subdomain] => rishwood-homes-ltd
+)
+Array
+(
+    [firstname] => Alex
+    [lastname] =>  
+    [email] => atohad@gmail.com
+    [password] => atohad246
+    [comapanyname] => All City
+    [nofieldworkers] => 3
+    [phoneno] => 2122222222
+    [subdomain] => all-city
+)
+Array
+(
+    [firstname] => alex
+    [lastname] =>  
+    [email] => atohad@gmail.com
+    [password] => atohad246
+    [comapanyname] => All City
+    [nofieldworkers] => 5
+    [phoneno] => 2122223232
+    [subdomain] => all-city
+)
+Array
+(
+    [firstname] => Abyr 
+    [lastname] =>  Valg
+    [email] => spam@latera.ru
+    [password] => q123
+    [comapanyname] => latera
+    [nofieldworkers] => 5
+    [phoneno] => 
+    [subdomain] => latera
+)
+Array
+(
+    [firstname] => Mathew
+    [lastname] =>  
+    [email] => sales@simlec.com
+    [password] => 201630v6
+    [comapanyname] => SImlec
+    [nofieldworkers] => 1
+    [phoneno] => 01543543017
+    [subdomain] => simlec
+)
+Array
+(
+    [firstname] => Francisco
+    [lastname] =>  
+    [email] => franciscojgo@gmail.com
+    [password] => 2jzgte
+    [comapanyname] => Framar
+    [nofieldworkers] => 2
+    [phoneno] => 7876308808
+    [subdomain] => framar
+)
+Array
+(
+    [firstname] => Cool
+    [lastname] =>  
+    [email] => coolbuddy54@gmail.com
+    [password] => password1
+    [comapanyname] => coolbuddy54
+    [nofieldworkers] => 1
+    [phoneno] => Buddy
+    [subdomain] => coolbuddy54
+)
+Array
+(
+    [firstname] => ben
+    [lastname] =>  
+    [email] => benacock@hotmail.com
+    [password] => electrical
+    [comapanyname] => evolution electrical
+    [nofieldworkers] => 4
+    [phoneno] => 07800 647426
+    [subdomain] => evolution-electrical
+)
+Array
+(
+    [firstname] => stephen
+    [lastname] =>  
+    [email] => cyber.tech.10@hotmail.com
+    [password] => cybertech10
+    [comapanyname] => Cyber Tech Computer Repair LLC
+    [nofieldworkers] => 5
+    [phoneno] => 5632196175
+    [subdomain] => cybertech
+)
+Array
+(
+    [firstname] => Robert
+    [lastname] =>  
+    [email] => rob@serviceteam.co.uk
+    [password] => fats0pp
+    [comapanyname] => Serviceteam
+    [nofieldworkers] => 5
+    [phoneno] => 07541889540
+    [subdomain] => serviceteam
+)
+Array
+(
+    [firstname] => Danny 
+    [lastname] =>  Otter
+    [email] => enquiries@erefrigeration.co.uk
+    [password] => Temple
+    [comapanyname] => Elite Refrigeration Repairs Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 07913406158
+    [subdomain] => erefrigeration
+)
+Array
+(
+    [firstname] => faiz
+    [lastname] =>  
+    [email] => faiz_mohammed123@hotmail.com
+    [password] => adidas786
+    [comapanyname] => linkedin properties ltd
+    [nofieldworkers] => 3
+    [phoneno] => 07792793955
+    [subdomain] => linkedin-properties-ltd
+)
+Array
+(
+    [firstname] => Andrew
+    [lastname] =>  
+    [email] => andrew.bargan@mail.ru
+    [password] => uyecvfc
+    [comapanyname] => SunCity
+    [nofieldworkers] => 50
+    [phoneno] => +380958786682
+    [subdomain] => suncity
+)
+Array
+(
+    [firstname] => Oscar 
+    [lastname] =>  Torres
+    [email] => Ingenieria@hogarex.com.co
+    [password] => 72083100983
+    [comapanyname] => Hogarex
+    [nofieldworkers] => 10
+    [phoneno] => 3143399738
+    [subdomain] => hogarex
+)
+Array
+(
+    [firstname] => HARROCH
+    [lastname] =>  
+    [email] => yohan.harroch@ameo-maintenance.com
+    [password] => GR4V3D4L
+    [comapanyname] => AMEO
+    [nofieldworkers] => 10
+    [phoneno] => +33683086080
+    [subdomain] => ameo
+)
+Array
+(
+    [firstname] => Oscar 
+    [lastname] =>  Torres
+    [email] => Ingenieria@hogarex.com.co
+    [password] => 72083100983
+    [comapanyname] => Hogarex
+    [nofieldworkers] => 10
+    [phoneno] => 573143399738
+    [subdomain] => hogarex
+)
+Array
+(
+    [firstname] => GREG
+    [lastname] =>  
+    [email] => gregtinglin@me.com
+    [password] => freyakiera1
+    [comapanyname] => All certs Ltd
+    [nofieldworkers] => 1
+    [phoneno] => 07540650848
+    [subdomain] => all-certs-ltd
+)
+Array
+(
+    [firstname] => Zac
+    [lastname] =>  
+    [email] => zg@tspuk.com
+    [password] => lemons
+    [comapanyname] => TSP
+    [nofieldworkers] => 1
+    [phoneno] => 02072849040
+    [subdomain] => tsp
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Martin
+    [email] => vanquish.pm@gmail.com
+    [password] => paul2013
+    [comapanyname] => vanquish
+    [nofieldworkers] => 2
+    [phoneno] => 08454754625
+    [subdomain] => vanquish
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Martin
+    [email] => vanquish.pm@gmail.com
+    [password] => paul2013
+    [comapanyname] => vanquish.workforce.fm
+    [nofieldworkers] => 2
+    [phoneno] => 08454754625
+    [subdomain] => vanquish
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Martin
+    [email] => vanquish.pm@gmail.com
+    [password] => paul2013
+    [comapanyname] => Vanquish
+    [nofieldworkers] => 2
+    [phoneno] => 0845 4754625
+    [subdomain] => vanquish
+)
+Array
+(
+    [firstname] => Michelle 
+    [lastname] =>  Gorum
+    [email] => michelleg@cgc-mcs.com
+    [password] => Blue73110
+    [comapanyname] => CGC Maintenance 
+    [nofieldworkers] => 2
+    [phoneno] => 4055907992
+    [subdomain] => cgc-maintenance
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => vanquish.pm@gmail.com
+    [password] => 
+    [comapanyname] => 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => vanquish
+)
+Array
+(
+    [firstname] => 21323
+    [lastname] =>  
+    [email] => dfdsf@dfdf.com
+    [password] => fdfdsf
+    [comapanyname] => ddsf
+    [nofieldworkers] => 4
+    [phoneno] => 32434
+    [subdomain] => ddsf
+)
+Array
+(
+    [firstname] => Matt 
+    [lastname] =>  Glans
+    [email] => support@pinnaclepropertyllc.com
+    [password] => Pinn2014
+    [comapanyname] => Pinnacle Property Maintenance
+    [nofieldworkers] => 4
+    [phoneno] => 3129850000
+    [subdomain] => ppmchi
+)
+Array
+(
+    [firstname] => Matt 
+    [lastname] =>  Glans
+    [email] => mattg@pinnaclepropertyllc.com
+    [password] => Pinn2014
+    [comapanyname] => Pinnacle Property Maintenance
+    [nofieldworkers] => 4
+    [phoneno] => 8478049673
+    [subdomain] => ppmchi
+)
+Array
+(
+    [firstname] => dean
+    [lastname] =>  
+    [email] => dean@idealinstaller.co.uk
+    [password] => seagull
+    [comapanyname] => robinson heating
+    [nofieldworkers] => 1
+    [phoneno] => 07502271276
+    [subdomain] => robinson-heating
+)
+Array
+(
+    [firstname] => Daniel
+    [lastname] =>  
+    [email] => tedi882@ymail.com
+    [password] => 002244abc
+    [comapanyname] => plumbing and drainage service
+    [nofieldworkers] => 1
+    [phoneno] => 07930331484
+    [subdomain] => plumbing-and-drainage-service
+)
+Array
+(
+    [firstname] => wewqew
+    [lastname] =>  
+    [email] => test@test.com
+    [password] => sffdsfdsfdsf
+    [comapanyname] => test
+    [nofieldworkers] => e
+    [phoneno] => weqwewe
+    [subdomain] => testdfdfdsf
+)
+Array
+(
+    [firstname] => Marcin 
+    [lastname] =>  Mazurek
+    [email] => mazureklukas@yahoo.com
+    [password] => stopyt784ne
+    [comapanyname] => Property Improvement & Maintenance Services 
+    [nofieldworkers] => 5
+    [phoneno] => 07708968196
+    [subdomain] => property-improvement-maintenance-services
+)
+Array
+(
+    [firstname] => penny
+    [lastname] =>  
+    [email] => penny.techwriter@gmail.com
+    [password] => siegfried65
+    [comapanyname] => yellowbooks
+    [nofieldworkers] => 1
+    [phoneno] => 0739771576
+    [subdomain] => yellowbooks
+)
+Array
+(
+    [firstname] => Jan-Paul
+    [lastname] =>  
+    [email] => j.kreukniet@thedjsbenelux.com
+    [password] => msnjpck2009
+    [comapanyname] => The DJ's Benelux
+    [nofieldworkers] => 4
+    [phoneno] => 0717440004
+    [subdomain] => thedjsbenelux
+)
+Array
+(
+    [firstname] => DeUndrae 
+    [lastname] =>  Samuel
+    [email] => samuelscleaningservices@gmail.com
+    [password] => darrius1
+    [comapanyname] => Samuels Cleaning
+    [nofieldworkers] => 5
+    [phoneno] => 2059039272
+    [subdomain] => samuels-cleaning
+)
+Array
+(
+    [firstname] => Steven 
+    [lastname] =>  Bpne
+    [email] => Steven.bone@sdbes.co.uk
+    [password] => SDBst3v3nb0n3
+    [comapanyname] => SDB Engineering Services
+    [nofieldworkers] => 5
+    [phoneno] => 01912721872
+    [subdomain] => sdb-eng
+)
+Array
+(
+    [firstname] => Piers 
+    [lastname] =>  Prater
+    [email] => piers@bonzalandscapes.com
+    [password] => prater1234
+    [comapanyname] => Bonza Landscaping & Hardscaping, Inc.
+    [nofieldworkers] => 3
+    [phoneno] => 610-476-9508
+    [subdomain] => bonza-landscaping-hardscaping-inc
+)
+Array
+(
+    [firstname] => Mem
+    [lastname] =>  
+    [email] => mem@rockgasplumbing.co.uk
+    [password] => ciya2121
+    [comapanyname] => Rock Gas & Plumbing
+    [nofieldworkers] => 1
+    [phoneno] => 07411305274
+    [subdomain] => rock-gas-plumbing
+)
+Array
+(
+    [firstname] => Dan 
+    [lastname] =>  Turton
+    [email] => danielturton@gepltd.co.uk
+    [password] => gepservices101
+    [comapanyname] => GEP Services Ltd
+    [nofieldworkers] => 8
+    [phoneno] => 01902 866 188
+    [subdomain] => gep-services-ltd
+)
+Array
+(
+    [firstname] => bob
+    [lastname] =>  
+    [email] => lorenzotorrell@me.com
+    [password] => 
+    [comapanyname] => None
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => none
+)
+Array
+(
+    [firstname] => Marianne 
+    [lastname] =>  Laycock
+    [email] => jplplumbingheating@yahoo.com
+    [password] => jplex10vbv
+    [comapanyname] => JPL Plumbing & Heating Ltd
+    [nofieldworkers] => 1
+    [phoneno] => 07741 283760
+    [subdomain] => jpl-plumbing-heating-ltd
+)
+Array
+(
+    [firstname] => adam
+    [lastname] =>  
+    [email] => adam@thebetterwebco.com
+    [password] => password
+    [comapanyname] => better web
+    [nofieldworkers] => 1
+    [phoneno] => 01992335647
+    [subdomain] => better-web
+)
+Array
+(
+    [firstname] => nick 
+    [lastname] =>  buxton
+    [email] => n.buxton@c-ds.co.uk
+    [password] => buxton01
+    [comapanyname] => CDS
+    [nofieldworkers] => 1
+    [phoneno] => 01527918618
+    [subdomain] => cds
+)
+Array
+(
+    [firstname] => ben 
+    [lastname] =>  acock
+    [email] => evolution-electrical
+    [password] => benacock12
+    [comapanyname] => evolution elecrical
+    [nofieldworkers] => 4
+    [phoneno] => 07800647426
+    [subdomain] => evolution-elecrical
+)
+Array
+(
+    [firstname] => Steve 
+    [lastname] =>  Kent
+    [email] => sales@kentalarms.co.uk
+    [password] => passat140
+    [comapanyname] => Kent Alarms Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 01226 717360
+    [subdomain] => kent-alarms-ltd
+)
+Array
+(
+    [firstname] => Seth 
+    [lastname] =>  Calkins
+    [email] => Sethcalkins@me.com
+    [password] => 07196001
+    [comapanyname] => Me
+    [nofieldworkers] => 10
+    [phoneno] => 1231231234
+    [subdomain] => me
+)
+Array
+(
+    [firstname] => Haydn 
+    [lastname] =>  Perkins
+    [email] => haydn@coolteksystems.co.uk
+    [password] => joshua2013
+    [comapanyname] => Cooltek Systems Limited
+    [nofieldworkers] => 2
+    [phoneno] => 07803330665
+    [subdomain] => cooltek-systems-limited
+)
+Array
+(
+    [firstname] => Clint 
+    [lastname] =>  Swope
+    [email] => clint@theilluminationfactory.com
+    [password] => MacbookPro1
+    [comapanyname] => The Illumination Factory
+    [nofieldworkers] => 5
+    [phoneno] => 6108449840
+    [subdomain] => theilluminationfactory
+)
+Array
+(
+    [firstname] => Clint 
+    [lastname] =>  Swope
+    [email] => clint@theilluminationfactory.com
+    [password] => MacbookPro1
+    [comapanyname] => The Illumination Factory
+    [nofieldworkers] => 5
+    [phoneno] => 6108449840
+    [subdomain] => the-illumination-factory
+)
+Array
+(
+    [firstname] => Ryan
+    [lastname] =>  
+    [email] => rpratt@seatow.com
+    [password] => 1234
+    [comapanyname] => Sea Tow Treasure Coast
+    [nofieldworkers] => 5
+    [phoneno] => 7722253144
+    [subdomain] => sea-tow-treasure-coast
+)
+Array
+(
+    [firstname] => Edward 
+    [lastname] =>  Schwartz
+    [email] => paladinpestcontrol@gmail.com
+    [password] => Luke5four:)
+    [comapanyname] => Paladin Pest Control
+    [nofieldworkers] => 1
+    [phoneno] => 719-422-3805
+    [subdomain] => paladin-pest-control
+)
+Array
+(
+    [firstname] => Jacqui
+    [lastname] =>  
+    [email] => jacqui@powerbuilding.co.uk
+    [password] => nominal
+    [comapanyname] => Power Building Services Ltd.
+    [nofieldworkers] => 14
+    [phoneno] => Power
+    [subdomain] => power-building-services-ltd
+)
+Array
+(
+    [firstname] => John
+    [lastname] =>  
+    [email] => padariaedu@gmail.com
+    [password] => 775304
+    [comapanyname] => EDU Bakery
+    [nofieldworkers] => 5
+    [phoneno] => 281775304
+    [subdomain] => edu-bakery
+)
+Array
+(
+    [firstname] => 223213
+    [lastname] =>  
+    [email] => test@tefdsfdsfdsst.com
+    [password] => sfsdfdsfd
+    [comapanyname] => test
+    [nofieldworkers] => 5
+    [phoneno] => 23213213
+    [subdomain] => testdfds
+)
+Array
+(
+    [firstname] => Nick 
+    [lastname] =>  Buxton
+    [email] => sales@c-ds.co.uk
+    [password] => Buxton01
+    [comapanyname] => CDS
+    [nofieldworkers] => 
+    [phoneno] => 01527918618
+    [subdomain] => cds
+)
+Array
+(
+    [firstname] => Traci 
+    [lastname] =>  Ward
+    [email] => sales@c-ds.co.uk
+    [password] => buxton01
+    [comapanyname] => CDS
+    [nofieldworkers] => 2
+    [phoneno] => 01527918618
+    [subdomain] => cds
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => test
+    [password] => est
+    [comapanyname] => test1
+    [nofieldworkers] => test
+    [phoneno] => test
+    [subdomain] => test1
+)
+Array
+(
+    [firstname] => dsf
+    [lastname] =>  
+    [email] => dsf
+    [password] => mo777fdsfds
+    [comapanyname] => fdsf
+    [nofieldworkers] => moraza
+    [phoneno] => dsfds
+    [subdomain] => fdsfdsffdsfds
+)
+Array
+(
+    [firstname] => Fraser 
+    [lastname] =>  Read
+    [email] => fraser@fdrplumbing.co.uk
+    [password] => 
+    [comapanyname] => FDR Plumbing & Heating Ltd
+    [nofieldworkers] => 2
+    [phoneno] => 07834224229
+    [subdomain] => fdr-plumbing-heating-ltd
+)
+Array
+(
+    [firstname] => James 
+    [lastname] =>  Henville
+    [email] => info@computerrepair-uk.com
+    [password] => computer1
+    [comapanyname] => Computer Repair UK
+    [nofieldworkers] => 3
+    [phoneno] => 01932 808577
+    [subdomain] => computer-repair-uk
+)
+Array
+(
+    [firstname] => Pawel
+    [lastname] =>  
+    [email] => p.k.siemieniuk@gmail.com
+    [password] => 123
+    [comapanyname] => Pawel Works
+    [nofieldworkers] => 1
+    [phoneno] => 50173019
+    [subdomain] => pawelworks
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => 123456
+    [comapanyname] => damien
+    [nofieldworkers] => 1
+    [phoneno] => 123456
+    [subdomain] => damien
+)
+Array
+(
+    [firstname] => Fraser 
+    [lastname] =>  Read
+    [email] => fraser@fdrplumbing.co.uk
+    [password] => open1234
+    [comapanyname] => FDR Plumbing & Heating Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 07834224229
+    [subdomain] => fdr
+)
+Array
+(
+    [firstname] => James 
+    [lastname] =>  Henville
+    [email] => Info@computerrepair-uk.com
+    [password] => henville1
+    [comapanyname] => Computer Repair UK
+    [nofieldworkers] => 4
+    [phoneno] => 01932 808577
+    [subdomain] => computer-repair-uk
+)
+Array
+(
+    [firstname] => nick 
+    [lastname] =>  buxton
+    [email] => n.buxton@c-ds.co.uk
+    [password] => buxton01
+    [comapanyname] => CDS
+    [nofieldworkers] => 1
+    [phoneno] => 01527918618
+    [subdomain] => cds
+)
+Array
+(
+    [firstname] => Jamie
+    [lastname] =>  
+    [email] => info@jhbm.co.uk
+    [password] => JHBM123321
+    [comapanyname] => JH Building & Maintenance Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 07876490212
+    [subdomain] => jh-building-maintenance-ltd
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => damien
+    [comapanyname] => damienknight
+    [nofieldworkers] => 4
+    [phoneno] => 1234211
+    [subdomain] => damienknight
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => test@test100damien.com
+    [password] => test
+    [comapanyname] => test100
+    [nofieldworkers] => 4
+    [phoneno] => 223232
+    [subdomain] => test100
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => test
+    [comapanyname] => damientest100
+    [nofieldworkers] => 3
+    [phoneno] => 34342
+    [subdomain] => damientest100
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => 123456
+    [comapanyname] => testcompany
+    [nofieldworkers] => 1
+    [phoneno] => 23232132
+    [subdomain] => testcompany
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => test
+    [comapanyname] => testcompany
+    [nofieldworkers] => 1
+    [phoneno] => 23213
+    [subdomain] => testcompany
+)
+Array
+(
+    [firstname] => Emiliano 
+    [lastname] =>  Gonzalez
+    [email] => el.boligol@gmail.com
+    [password] => peach2011
+    [comapanyname] => emiliano
+    [nofieldworkers] => 4
+    [phoneno] => 123456789
+    [subdomain] => emiliano
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => sda@dfdf.com
+    [password] => 123456
+    [comapanyname] => test
+    [nofieldworkers] => 1
+    [phoneno] => 1212121
+    [subdomain] => test2468
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => 123456
+    [comapanyname] => damien100
+    [nofieldworkers] => 3
+    [phoneno] => 23213
+    [subdomain] => damien100
+)
+Array
+(
+    [firstname] => testing
+    [lastname] =>  
+    [email] => damien@sdasd.com
+    [password] => 123456
+    [comapanyname] => damien2345
+    [nofieldworkers] => 3
+    [phoneno] => 123456
+    [subdomain] => damien2345
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => damien@dsfdfsdf.com
+    [password] => 123456
+    [comapanyname] => damienknight
+    [nofieldworkers] => 3
+    [phoneno] => 1231
+    [subdomain] => damienknight
+)
+Array
+(
+    [firstname] => dfdf
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => 123456
+    [comapanyname] => damienknight1
+    [nofieldworkers] => 1
+    [phoneno] => 23231
+    [subdomain] => damienknight1
+)
+Array
+(
+    [firstname] => damien
+    [lastname] =>  
+    [email] => damien@workforce.fm
+    [password] => 123456
+    [comapanyname] => testaccount
+    [nofieldworkers] => 3
+    [phoneno] => 1234567
+    [subdomain] => testaccount
+)
+Array
+(
+    [firstname] => Oscar
+    [lastname] =>  
+    [email] => ingenieria@hogarex.com.co
+    [password] => Oscar99
+    [comapanyname] => Hogarex
+    [nofieldworkers] => 10
+    [phoneno] => 
+    [subdomain] => hogarex
+)
+Array
+(
+    [firstname] => James
+    [lastname] =>  
+    [email] => Info@computerrepair-uk.com
+    [password] => henville1
+    [comapanyname] => computer repair uk
+    [nofieldworkers] => 4
+    [phoneno] => 01932 808577
+    [subdomain] => computer-repair-uk
+)
+Array
+(
+    [firstname] => Jamie
+    [lastname] =>  
+    [email] => info@jhbm.co.uk
+    [password] => JHBM123321
+    [comapanyname] => JH Building & Maintenance Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 07876490212
+    [subdomain] => jh-building-maintenance-ltd
+)
+Array
+(
+    [firstname] => Fraser
+    [lastname] =>  
+    [email] => fraser@fdrplumbing.co.uk
+    [password] => open1234 
+    [comapanyname] => fdr plumbing
+    [nofieldworkers] => 3
+    [phoneno] => 07834224229 
+    [subdomain] => fdr-plumbing
+)
+Array
+(
+    [firstname] => Ryan
+    [lastname] =>  
+    [email] => rpratt@seatow.com
+    [password] => 7245
+    [comapanyname] => seatow
+    [nofieldworkers] => 5
+    [phoneno] => 7722253144
+    [subdomain] => seatow
+)
+Array
+(
+    [firstname] => Morghatu
+    [lastname] =>  
+    [email] => direction@gmail.com
+    [password] => workforce123
+    [comapanyname] => geocal
+    [nofieldworkers] => 2
+    [phoneno] => +687769899
+    [subdomain] => geocal
+)
+Array
+(
+    [firstname] => Willem
+    [lastname] =>  
+    [email] => will@cirruscomms.com.au
+    [password] => milkisgood2
+    [comapanyname] => Cirrus
+    [nofieldworkers] => 6
+    [phoneno] => 0243362000
+    [subdomain] => cirrus
+)
+Array
+(
+    [firstname] => Garry
+    [lastname] =>  
+    [email] => Garry.rawlinson@gmail.com
+    [password] => 4114garry
+    [comapanyname] => Homecare UK Ltd 
+    [nofieldworkers] => 2
+    [phoneno] => 079767903770
+    [subdomain] => homecare-uk-ltd
+)
+Array
+(
+    [firstname] => Nathan
+    [lastname] =>  
+    [email] => Nathan
+    [password] => nathan007
+    [comapanyname] => Window Surgeon
+    [nofieldworkers] => 2
+    [phoneno] => 01323 458768
+    [subdomain] => window-surgeon
+)
+Array
+(
+    [firstname] => Nick 
+    [lastname] =>  buxton
+    [email] => N.Buxton@c-ds.co.uk
+    [password] => 
+    [comapanyname] => cds
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => cds
+)
+Array
+(
+    [firstname] => Nick 
+    [lastname] =>  Buxton
+    [email] => n.buxton@c-ds.co.uk
+    [password] => cds100
+    [comapanyname] => CD-S
+    [nofieldworkers] => 5
+    [phoneno] => 01527 918618 
+    [subdomain] => cd-s
+)
+Array
+(
+    [firstname] => Nick 
+    [lastname] =>  Buxton
+    [email] => sales@c-ds.co.uk
+    [password] => cds100
+    [comapanyname] => cds
+    [nofieldworkers] => 5
+    [phoneno] => 01527918618
+    [subdomain] => c-d-s
+)
+Array
+(
+    [firstname] => tim
+    [lastname] =>  
+    [email] => info@nuwaveps.com
+    [password] => 212453
+    [comapanyname] => nuwave
+    [nofieldworkers] => 5
+    [phoneno] => 01202390884
+    [subdomain] => nuwave
+)
+Array
+(
+    [firstname] => susie
+    [lastname] =>  
+    [email] => susie@lpi-trade.co.uk
+    [password] => 123456
+    [comapanyname] => susie
+    [nofieldworkers] => 1
+    [phoneno] => 123456
+    [subdomain] => susie
+)
+Array
+(
+    [firstname] => bryan
+    [lastname] =>  
+    [email] => bwalsh444@gmail.com
+    [password] => godsmack
+    [comapanyname] => me
+    [nofieldworkers] => 25
+    [phoneno] => 1231231234
+    [subdomain] => me
+)
+Array
+(
+    [firstname] => Alessandro
+    [lastname] =>  
+    [email] => alessandro@doutorclima.com.br
+    [password] => senha3618
+    [comapanyname] => Doutor Clima
+    [nofieldworkers] => 20
+    [phoneno] => 55110039
+    [subdomain] => doutor-clima
+)
+Array
+(
+    [firstname] => 111
+    [lastname] =>  
+    [email] => etyurin@ukr.net
+    [password] => 111111
+    [comapanyname] => 111
+    [nofieldworkers] => 1
+    [phoneno] => 111111111111
+    [subdomain] => 111
+)
+Array
+(
+    [firstname] => Stephanie 
+    [lastname] =>  Higgins
+    [email] => steph@bruler.co.uk
+    [password] => willow18
+    [comapanyname] => Bruler Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 01373836705
+    [subdomain] => bruler-ltd
+)
+Array
+(
+    [firstname] => Green 
+    [lastname] =>  Control
+    [email] => info@greenntidy.com
+    [password] => 24mossdale
+    [comapanyname] => Green & Tidy 
+    [nofieldworkers] => 2
+    [phoneno] => 02082895440
+    [subdomain] => greenntidy
+)
+Array
+(
+    [firstname] => philip 
+    [lastname] =>  brignell
+    [email] => info@solarserve.co.uk
+    [password] => maverick007
+    [comapanyname] => Simple Trade Boilers Hull
+    [nofieldworkers] => 2
+    [phoneno] => 01482534333
+    [subdomain] => simple-trade-boilers-hull
+)
+Array
+(
+    [firstname] => rob
+    [lastname] =>  
+    [email] => robert@giantsparrows.co.uk
+    [password] => nice2day
+    [comapanyname] => giant sparrows
+    [nofieldworkers] => 1
+    [phoneno] => 02086160625
+    [subdomain] => giant-sparrows
+)
+Array
+(
+    [firstname] => Dave
+    [lastname] =>  
+    [email] => dave@fmc-sw.co.uk
+    [password] => Willsam10
+    [comapanyname] => FMC Southwest Ltd
+    [nofieldworkers] => 2
+    [phoneno] => 07976748219
+    [subdomain] => fmc-southwest-ltd
+)
+Array
+(
+    [firstname] => Anthea 
+    [lastname] =>  Parker
+    [email] => antheaparker77@yahoo.co.uk
+    [password] => frazer1a
+    [comapanyname] => Anthea Parker
+    [nofieldworkers] => 1
+    [phoneno] => 07917386497
+    [subdomain] => anthea-parker
+)
+Array
+(
+    [firstname] => Gil 
+    [lastname] =>  Brignell
+    [email] => gilbrignell@mac.com
+    [password] => moosehead007
+    [comapanyname] => Simple Trade Boilers
+    [nofieldworkers] => 3
+    [phoneno] => 01482534321
+    [subdomain] => simple-trade-boilers
+)
+Array
+(
+    [firstname] => Samuele
+    [lastname] =>  
+    [email] => info@theitalianplumber.co.uk
+    [password] => Bessica199
+    [comapanyname] => The Italian Plumber Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 07950861983
+    [subdomain] => theitalianplumberltd
+)
+Array
+(
+    [firstname] => Wojciech 
+    [lastname] =>  Krol
+    [email] => voiddi@gmail.com
+    [password] => hambridge
+    [comapanyname] => Hambridge Homes
+    [nofieldworkers] => 3
+    [phoneno] => 07727645648
+    [subdomain] => hambridgehomes
+)
+Array
+(
+    [firstname] => Lucy
+    [lastname] =>  
+    [email] => lucy@impress-solutions.com
+    [password] => Impress1
+    [comapanyname] => Impress Solutions
+    [nofieldworkers] => 2
+    [phoneno] => 01708 759 760
+    [subdomain] => impress-solutions
+)
+Array
+(
+    [firstname] => Avram
+    [lastname] =>  
+    [email] => avram@zada.tv
+    [password] => zada135s
+    [comapanyname] => Zada Technology Ltd
+    [nofieldworkers] => 6
+    [phoneno] => 07976354331
+    [subdomain] => zada-technology-ltd
+)
+Array
+(
+    [firstname] => Zohaib
+    [lastname] =>  
+    [email] => zabbym@gmail.com
+    [password] => pakistan123
+    [comapanyname] => Thehandyman
+    [nofieldworkers] => 1
+    [phoneno] => 03219990069
+    [subdomain] => thehandyman
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Stewart
+    [email] => Sales@techservices.org
+    [password] => jaguarxj6
+    [comapanyname] => Tech Refrigeration Services Ltd
+    [nofieldworkers] => 5
+    [phoneno] => 07584015177
+    [subdomain] => tech-refrigeration-services-ltd
+)
+Array
+(
+    [firstname] => Serge 
+    [lastname] =>  Pamphile
+    [email] => info@bigstarmoving.com
+    [password] => lisa1599
+    [comapanyname] => Big Star Moving
+    [nofieldworkers] => 14
+    [phoneno] => 5616159889
+    [subdomain] => big-star-moving
+)
+Array
+(
+    [firstname] => karl
+    [lastname] =>  
+    [email] => karl@tool-temp.net
+    [password] => service14
+    [comapanyname] => tool-temp
+    [nofieldworkers] => 2
+    [phoneno] => 01933442623
+    [subdomain] => tool-temp
+)
+Array
+(
+    [firstname] => Joao
+    [lastname] =>  
+    [email] => Joaopiopedreira@gmail.com
+    [password] => jpbgpjpbgp
+    [comapanyname] => Wcd
+    [nofieldworkers] => 6
+    [phoneno] => 
+    [subdomain] => wcd
+)
+Array
+(
+    [firstname] => Jonathan
+    [lastname] =>  
+    [email] => jonathan@idealhandyman.co.uk
+    [password] => ideal9983
+    [comapanyname] => Ideal Handyman
+    [nofieldworkers] => 5
+    [phoneno] => 
+    [subdomain] => ideal-handyman
+)
+Array
+(
+    [firstname] => Matt 
+    [lastname] =>  Smith
+    [email] => matt@handy4me.com
+    [password] => Matt9284
+    [comapanyname] => Handy Matt
+    [nofieldworkers] => 1
+    [phoneno] => 248-420-9359
+    [subdomain] => handy-matt
+)
+Array
+(
+    [firstname] => Daniel 
+    [lastname] =>  Anthony
+    [email] => sales@mayflyexpress.com
+    [password] => courier77@
+    [comapanyname] => Mayfly Express
+    [nofieldworkers] => 2
+    [phoneno] => +447942828001
+    [subdomain] => mayfly
+)
+Array
+(
+    [firstname] => James 
+    [lastname] =>  Gorton
+    [email] => jg.plumbing@live.co.uk
+    [password] => goose123
+    [comapanyname] => JG Property Services
+    [nofieldworkers] => 5
+    [phoneno] => 07979294258
+    [subdomain] => jg-property-services
+)
+Array
+(
+    [firstname] => Marie 
+    [lastname] =>  Keown
+    [email] => marie_keown@yahoo.co.uk
+    [password] => eden123
+    [comapanyname] => Eden Security
+    [nofieldworkers] => 2
+    [phoneno] => 07971578111
+    [subdomain] => eden-security
+)
+Array
+(
+    [firstname] => Peter 
+    [lastname] =>  Allen
+    [email] => peter@edisonford.co.uk
+    [password] => Finres01
+    [comapanyname] => Edison Ford
+    [nofieldworkers] => 5
+    [phoneno] => 
+    [subdomain] => edison-ford
+)
+Array
+(
+    [firstname] => andrew
+    [lastname] =>  
+    [email] => expertgas@gmx.com
+    [password] => moosehead007
+    [comapanyname] => Boilerserve
+    [nofieldworkers] => 2
+    [phoneno] => 07809299604
+    [subdomain] => boilerserve
+)
+Array
+(
+    [firstname] => Andrew
+    [lastname] =>  
+    [email] => expertgas@gmx.com
+    [password] => moosehead007
+    [comapanyname] => Boiler Serve
+    [nofieldworkers] => 2
+    [phoneno] =>  07809299604
+    [subdomain] => boiler-serve
+)
+Array
+(
+    [firstname] => Edd 
+    [lastname] =>  White
+    [email] => admin@sweetbriarltd.com
+    [password] => rusty1993
+    [comapanyname] => Sweetbriar Ltd.
+    [nofieldworkers] => 6
+    [phoneno] => 07507910183
+    [subdomain] => sweetbriar
+)
+Array
+(
+    [firstname] => test
+    [lastname] =>  
+    [email] => tias_dp@hotmail.com
+    [password] => somepassword
+    [comapanyname] => Company Name
+    [nofieldworkers] => 6
+    [phoneno] => 01234567890
+    [subdomain] => company-name
+)
+Array
+(
+    [firstname] => Ser 
+    [lastname] =>  Go
+    [email] => s_kharati@yahoo.com
+    [password] => 123123
+    [comapanyname] => Xnet
+    [nofieldworkers] => 2
+    [phoneno] => 
+    [subdomain] => xnet
+)
+Array
+(
+    [firstname] => Philip 
+    [lastname] =>  Halpin
+    [email] => philip@countrywide-pestcontrol.com
+    [password] => 113488
+    [comapanyname] => Countrywide
+    [nofieldworkers] => 2-3
+    [phoneno] => 07784023322
+    [subdomain] => countrywide
+)
+Array
+(
+    [firstname] => Vince
+    [lastname] =>  
+    [email] => v-maddison@hotmail.com
+    [password] => 10gemjam
+    [comapanyname] => Home
+    [nofieldworkers] => 1
+    [phoneno] => Maddison
+    [subdomain] => home
+)
+Array
+(
+    [firstname] => Bernhard
+    [lastname] =>  
+    [email] => riegosdelturia.cb@gmail.com
+    [password] => riegosdelturiacbw
+    [comapanyname] => Riegos del turia c.b.
+    [nofieldworkers] => 2
+    [phoneno] => 
+    [subdomain] => riegos-del-turia-c-b
+)
+Array
+(
+    [firstname] => P
+    [lastname] =>  
+    [email] => info@alandesign.co.uk
+    [password] => happy07
+    [comapanyname] => AlanDESIGn PROPERTY SERVICES
+    [nofieldworkers] => 1
+    [phoneno] => 07589483236
+    [subdomain] => alandesign-property-services
+)
+Array
+(
+    [firstname] => Alex 
+    [lastname] =>  Kelberman
+    [email] => alexkelberman@yahoo.co.uk
+    [password] => jonny8874
+    [comapanyname] => 
+    [nofieldworkers] => 1
+    [phoneno] => 07402369953
+    [subdomain] => alexkelberman
+)
+Array
+(
+    [firstname] => Chaim
+    [lastname] =>  
+    [email] => Chaim@healtheng.com
+    [password] => B10WFmed1
+    [comapanyname] => Healthcare Engineering
+    [nofieldworkers] => 1
+    [phoneno] => 718-4145555
+    [subdomain] => healtheng
+)
+Array
+(
+    [firstname] => Abbas
+    [lastname] =>  
+    [email] => abbasmosawi@gmail.com
+    [password] => mosa8288
+    [comapanyname] => Hyde Park Suites
+    [nofieldworkers] => 7
+    [phoneno] => +447950307778
+    [subdomain] => hps
+)
+Array
+(
+    [firstname] => Abbas
+    [lastname] =>  
+    [email] => abbasmosawi@gmail.com
+    [password] => mosa8288
+    [comapanyname] => Hyde Park Suites
+    [nofieldworkers] => 7
+    [phoneno] => +447950307778
+    [subdomain] => hps
+)
+Array
+(
+    [firstname] => rus
+    [lastname] =>  
+    [email] => sales@knifemandirect.com
+    [password] => northover1
+    [comapanyname] => knifeman
+    [nofieldworkers] => 2
+    [phoneno] => 02072062465
+    [subdomain] => knifeman
+)
+Array
+(
+    [firstname] => Rob 
+    [lastname] =>  Mabbott
+    [email] => rob@ramscapes.co.uk
+    [password] => trent001
+    [comapanyname] => Ramscapes Limited
+    [nofieldworkers] => 12
+    [phoneno] => 01158495649
+    [subdomain] => trent001
+)
+Array
+(
+    [firstname] => Travis
+    [lastname] =>  
+    [email] => travis@impactinstalls.com.au
+    [password] => verdien
+    [comapanyname] => Impact Installs
+    [nofieldworkers] => 5
+    [phoneno] => +61411457052
+    [subdomain] => impactinstalls
+)
+Array
+(
+    [firstname] => Dan 
+    [lastname] =>  williams
+    [email] => danwilliams23.dw@gmail.com
+    [password] => Plonker1258
+    [comapanyname] => bps
+    [nofieldworkers] => 3
+    [phoneno] => 07960500519
+    [subdomain] => bps
+)
+Array
+(
+    [firstname] => Liam 
+    [lastname] =>  Donaghy
+    [email] => donaghyliam74@gmail.com
+    [password] => iamrhubarb01
+    [comapanyname] => Sentel
+    [nofieldworkers] => 5
+    [phoneno] => 07840714136
+    [subdomain] => sentel
+)
+Array
+(
+    [firstname] => Alin 
+    [lastname] =>  Curutu
+    [email] => tehnic@eurotehnicaitc.ro
+    [password] => raluca84
+    [comapanyname] => Eurotehnica
+    [nofieldworkers] => 6
+    [phoneno] => +40766570199
+    [subdomain] => Eurotehnica
+)
+Array
+(
+    [firstname] => Kapeesh
+    [lastname] =>  
+    [email] => kapeeshgupta@gmail.com
+    [password] => alibaba007
+    [comapanyname] => SKG INFO
+    [nofieldworkers] => 1
+    [phoneno] => 9703216539
+    [subdomain] => skg-info
+)
+Array
+(
+    [firstname] => nandu
+    [lastname] =>  
+    [email] => gnksignup1@gmail.com
+    [password] => Nandu123
+    [comapanyname] => design
+    [nofieldworkers] => 1
+    [phoneno] => 9298912889
+    [subdomain] => design
+)
+Array
+(
+    [firstname] => jason
+    [lastname] =>  
+    [email] => jason.sagar@yahoo.co.uk
+    [password] => lazytown
+    [comapanyname] => Tooth Fairies
+    [nofieldworkers] => 5
+    [phoneno] => 02920651291
+    [subdomain] => tooth-fairies
+)
+Array
+(
+    [firstname] => Iulia
+    [lastname] =>  
+    [email] => office@lovefone.co.uk
+    [password] => nice2day
+    [comapanyname] => Lovefone
+    [nofieldworkers] => 1
+    [phoneno] => 02070784341
+    [subdomain] => lovefone
+)
+Array
+(
+    [firstname] => Austin
+    [lastname] =>  
+    [email] => adam+1@thebetterwebco.com
+    [password] => password
+    [comapanyname] => Better Web
+    [nofieldworkers] => 1
+    [phoneno] => 01234 567891
+    [subdomain] => better-web
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => lettings@4brothers-ltd.co.uk
+    [password] => 
+    [comapanyname] => 4brother ltd
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => 4brother-ltd
+)
+Array
+(
+    [firstname] => Barry
+    [lastname] =>  
+    [email] => lettings@4brothers-ltd.co.uk
+    [password] => wotnot
+    [comapanyname] => 4brothers ltd
+    [nofieldworkers] => 3
+    [phoneno] => 01159467285
+    [subdomain] => 4brothers-ltd
+)
+Array
+(
+    [firstname] => Narisara 
+    [lastname] =>  Smith
+    [email] => office@advancedheatinglondon.co.uk
+    [password] => papadocs
+    [comapanyname] => Advanced Plumbing & Heating Services Ltd
+    [nofieldworkers] => 10 workers 
+    [phoneno] => 07584261399
+    [subdomain] => advanced-plumbing-heating-services-ltd
+)
+Array
+(
+    [firstname] => Dan
+    [lastname] =>  
+    [email] => dc@ats2002.com
+    [password] => Chicago1
+    [comapanyname] => Allied Technical Services
+    [nofieldworkers] => 24
+    [phoneno] => 07956104979
+    [subdomain] => ats
+)
+Array
+(
+    [firstname] => Andrew 
+    [lastname] =>  Low
+    [email] => andrew.low@pepp.uk.com
+    [password] => queens
+    [comapanyname] => Peppy Limited
+    [nofieldworkers] => 2
+    [phoneno] => 02089986000
+    [subdomain] => peppy
+)
+Array
+(
+    [firstname] => Adam 
+    [lastname] =>  Falla
+    [email] => adam@aircleannsheen.com
+    [password] => Willfagg69
+    [comapanyname] => AirCleanNSheen
+    [nofieldworkers] => 1
+    [phoneno] => 2029577992
+    [subdomain] => aircleannsheen
+)
+Array
+(
+    [firstname] => Greg 
+    [lastname] =>  Tinglin
+    [email] => gregtinglin@me.com
+    [password] => 19Greg87
+    [comapanyname] => All certs
+    [nofieldworkers] => 1
+    [phoneno] => 07713926363
+    [subdomain] => all-certs
+)
+Array
+(
+    [firstname] => Greg
+    [lastname] =>  
+    [email] => gregtinglin@me.com
+    [password] => 19Greg87
+    [comapanyname] => allcerts
+    [nofieldworkers] => 1
+    [phoneno] => 07713926363
+    [subdomain] => allcerts
+)
+Array
+(
+    [firstname] => Rádi 
+    [lastname] =>  Szabolcs
+    [email] => radi@radinum.hu
+    [password] => ausztralia
+    [comapanyname] => radinum
+    [nofieldworkers] => 2
+    [phoneno] => +36209834680
+    [subdomain] => radinum
+)
+Array
+(
+    [firstname] => Radi 
+    [lastname] =>  Szabolcs
+    [email] => radi@radinum.hu
+    [password] => ausztralia
+    [comapanyname] => radinum
+    [nofieldworkers] => 2
+    [phoneno] => 0036209834680
+    [subdomain] => radinum
+)
+Array
+(
+    [firstname] => JIM
+    [lastname] =>  
+    [email] => 1234@YAHOO.COM
+    [password] => 12345
+    [comapanyname] => 1234PLUMB
+    [nofieldworkers] => 3
+    [phoneno] => MEE
+    [subdomain] => 1234plumb
+)
+Array
+(
+    [firstname] => greg
+    [lastname] =>  
+    [email] => gregtinglin@me.com
+    [password] => 19Greg87
+    [comapanyname] => all certs london
+    [nofieldworkers] => 1
+    [phoneno] => 07713926363
+    [subdomain] => all-certs-london
+)
+Array
+(
+    [firstname] => Terence 
+    [lastname] =>  Junious
+    [email] => hometownirs@gmail.com
+    [password] => irS011083
+    [comapanyname] => HOMETOWN i.r.s.
+    [nofieldworkers] => 2
+    [phoneno] => 8053808587
+    [subdomain] => hometownirs
+)
+Array
+(
+    [firstname] => Richard 
+    [lastname] =>  Earl
+    [email] => richard@wessex.fm
+    [password] => charley
+    [comapanyname] => FM Wessex Ltd
+    [nofieldworkers] => 2
+    [phoneno] => 01420 588152
+    [subdomain] => fm-wessex-ltd
+)
+Array
+(
+    [firstname] => Craig
+    [lastname] =>  
+    [email] => Callen1401.1@icloud.com
+    [password] => head1024
+    [comapanyname] => Craig
+    [nofieldworkers] => 6
+    [phoneno] => 07842687677
+    [subdomain] => craig
+)
+Array
+(
+    [firstname] => johal
+    [lastname] =>  
+    [email] => plumbpart@hotmail.com
+    [password] => 3788johal
+    [comapanyname] => plumbpart ltd
+    [nofieldworkers] => 02085696100
+    [phoneno] => 07836542020
+    [subdomain] => plumbpart-ltd
+)
+Array
+(
+    [firstname] => johal
+    [lastname] =>  
+    [email] => plumbpart@hotmail.com
+    [password] => 3788johal
+    [comapanyname] => plumbpart ltd
+    [nofieldworkers] => 1
+    [phoneno] => 07836542020
+    [subdomain] => plumbpart-ltd
+)
+Array
+(
+    [firstname] => greg
+    [lastname] =>  
+    [email] => allcertsbooking@gmail.com
+    [password] => 19Greg87
+    [comapanyname] => all certs london
+    [nofieldworkers] => 1
+    [phoneno] => 07713926363
+    [subdomain] => all-certs-london
+)
+Array
+(
+    [firstname] => james
+    [lastname] =>  
+    [email] => james.hall@hallcom.co.uk
+    [password] => test
+    [comapanyname] => hallcom
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => hallcom
+)
+Array
+(
+    [firstname] => james
+    [lastname] =>  
+    [email] => james.hall@hallcom.co.uk
+    [password] => test2
+    [comapanyname] => hallcom
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => hallcom
+)
+Array
+(
+    [firstname] => Wayne 
+    [lastname] =>  Radford
+    [email] => wayne@apexci.co.uk
+    [password] => 21061969
+    [comapanyname] => Apex Integrated Solutions Ltd
+    [nofieldworkers] => 3
+    [phoneno] => 01909569958
+    [subdomain] => apex-integrated-solutions-ltd
+)
+Array
+(
+    [firstname] => Sameer
+    [lastname] =>  
+    [email] => sam@boumans.co.uk
+    [password] => ikram123
+    [comapanyname] => Boumans
+    [nofieldworkers] => 4
+    [phoneno] => 07943846664
+    [subdomain] => boumans
+)
+Array
+(
+    [firstname] => G 
+    [lastname] =>  
+    [email] => allgascerts@gmail.com
+    [password] => 19Greg87
+    [comapanyname] => g tinglin
+    [nofieldworkers] => 1
+    [phoneno] => 07713926363
+    [subdomain] => g-tinglin
+)
+Array
+(
+    [firstname] => Warren
+    [lastname] =>  
+    [email] => Warrensmyth@outloo.com
+    [password] => dorasmyth21
+    [comapanyname] => A1 services
+    [nofieldworkers] => 1
+    [phoneno] => 01277222405
+    [subdomain] => a1-services
+)
+Array
+(
+    [firstname] => Warren
+    [lastname] =>  
+    [email] => Warrensmyth@outlook.com
+    [password] => 
+    [comapanyname] => A1 services
+    [nofieldworkers] => 1
+    [phoneno] => 01277222405
+    [subdomain] => a1-servicesessex
+)
+Array
+(
+    [firstname] => Donna
+    [lastname] =>  
+    [email] => donna@treeworknow.com
+    [password] => Workforce2015
+    [comapanyname] => Tree Work Now
+    [nofieldworkers] => 9
+    [phoneno] => 3863411888
+    [subdomain] => tree-work-now
+)
+Array
+(
+    [firstname] => Donna
+    [lastname] =>  
+    [email] => donna@treeworknow.com
+    [password] => Tree2015!!
+    [comapanyname] => Tree Work Now
+    [nofieldworkers] => 10
+    [phoneno] => 3863411888
+    [subdomain] => tree-work-now
+)
+Array
+(
+    [firstname] => Lincoln 
+    [lastname] =>  
+    [email] => Lincoln@custom-heat.co.uk
+    [password] => customheat
+    [comapanyname] => Custom heat ltd
+    [nofieldworkers] => 10
+    [phoneno] => 01788 568752
+    [subdomain] => custom-heat-ltd
+)
+Array
+(
+    [firstname] => michael
+    [lastname] =>  
+    [email] => michael.iospa@belectric.com
+    [password] => revinemo117
+    [comapanyname] => Belectric
+    [nofieldworkers] => 7
+    [phoneno] => +972547605834
+    [subdomain] => belectric
+)
+Array
+(
+    [firstname] => Riko 
+    [lastname] =>  Muttik
+    [email] => riko@parim.co.uk
+    [password] => Masjmv_101
+    [comapanyname] => PARiM Limited
+    [nofieldworkers] => 6
+    [phoneno] => 0203-701-1917
+    [subdomain] => team
+)
+Array
+(
+    [firstname] => Rich 
+    [lastname] =>  Williams
+    [email] => Info@richwilliamselectrical.co.uk
+    [password] => Thor76291
+    [comapanyname] => Rich Williams Electrical
+    [nofieldworkers] => 2
+    [phoneno] => 07712227752
+    [subdomain] => rich-williams-electrical
+)
+Array
+(
+    [firstname] => Steve 
+    [lastname] =>  Berger
+    [email] => ee4e35d4@opayq.com
+    [password] => mas2014
+    [comapanyname] => MadeUp Company, LLC
+    [nofieldworkers] => 5
+    [phoneno] => 312-442-4211
+    [subdomain] => madeup-company-llc
+)
+Array
+(
+    [firstname] => tony
+    [lastname] =>  
+    [email] => tony@thepiedpiper.uk.com
+    [password] => mer8532
+    [comapanyname] => the pied ppier
+    [nofieldworkers] => 3
+    [phoneno] => 02085237666
+    [subdomain] => the-pied-ppier
+)
+Array
+(
+    [firstname] => michael
+    [lastname] =>  
+    [email] => michael.iospa@belectric.com
+    [password] => revinemo117
+    [comapanyname] => Belectric
+    [nofieldworkers] => 7
+    [phoneno] => +972547605834
+    [subdomain] => belectric
+)
+Array
+(
+    [firstname] => Michael
+    [lastname] =>  
+    [email] => michael.iospa@belectric.com
+    [password] => revinemo117
+    [comapanyname] => Belectric
+    [nofieldworkers] => 7
+    [phoneno] => +972547605834
+    [subdomain] => belectric
+)
+Array
+(
+    [firstname] => Bill 
+    [lastname] =>  Boyd
+    [email] => bill.boyd@accordfire.co.uk
+    [password] => Lydney1!
+    [comapanyname] => Accord Fire & Security Services Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 08454745839
+    [subdomain] => accord
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Zussman
+    [email] => david@elysianenergy.com
+    [password] => elysianis#1
+    [comapanyname] => Elysian Energy
+    [nofieldworkers] => 28
+    [phoneno] => 3025286602
+    [subdomain] => elysianenergy
+)
+Array
+(
+    [firstname] => John 
+    [lastname] =>  Ives
+    [email] => info@fire-serv.com
+    [password] => demo1234
+    [comapanyname] => Fireserv uk
+    [nofieldworkers] => 2
+    [phoneno] => 0116 4299422
+    [subdomain] => fireserv-uk
+)
+Array
+(
+    [firstname] => Chris 
+    [lastname] =>  Clark
+    [email] => chris.clark@empressconnect.com
+    [password] => jhan635
+    [comapanyname] => Empress Connect Limited
+    [nofieldworkers] => 2
+    [phoneno] => +447815088754
+    [subdomain] => empress-connect-limited
+)
+Array
+(
+    [firstname] => Elias 
+    [lastname] =>  Ahile
+    [email] => bgcconsultingltd@gmail.com
+    [password] => ahilemuemue
+    [comapanyname] => BRISK GLOBAL CONCEPT 
+    [nofieldworkers] => 30
+    [phoneno] => 2348134696105
+    [subdomain] => brisk-global-concept
+)
+Array
+(
+    [firstname] => Michael
+    [lastname] =>  
+    [email] => michael.iospa@belectric.com
+    [password] => revinemo117
+    [comapanyname] => Belectric
+    [nofieldworkers] => 7
+    [phoneno] => +972547605834
+    [subdomain] => belectric
+)
+Array
+(
+    [firstname] => Ian
+    [lastname] =>  
+    [email] => ianedwards@hotmail.co.uk
+    [password] => margaret
+    [comapanyname] => IJE Ltd
+    [nofieldworkers] => 6
+    [phoneno] => 07979516209
+    [subdomain] => ije-ltd
+)
+Array
+(
+    [firstname] => Jack 
+    [lastname] =>  Madhani
+    [email] => info@marvel.plumbing
+    [password] => hulk444
+    [comapanyname] => Marvel Property Solutions
+    [nofieldworkers] => 7
+    [phoneno] => 0208 419 88 33
+    [subdomain] => marvel-property-solutions
+)
+Array
+(
+    [firstname] => James
+    [lastname] =>  
+    [email] => James@intesec.co.uk
+    [password] => 
+    [comapanyname] => Intesec Ltd
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => intesec-ltd
+)
+Array
+(
+    [firstname] => Boris 
+    [lastname] =>  Levit
+    [email] => admin@whitegoodssolutions.com.au
+    [password] => 137eps
+    [comapanyname] => Whitegoods Solutions
+    [nofieldworkers] => 1
+    [phoneno] => +61422894894
+    [subdomain] => whitegoodssolutions
+)
+Array
+(
+    [firstname] => Mark 
+    [lastname] =>  Webb
+    [email] => markwebb2@gmail.com
+    [password] => C0yswork
+    [comapanyname] => Havering Lawn Care
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => havering-lawn-care
+)
+Array
+(
+    [firstname] => Terence
+    [lastname] =>  
+    [email] => tjunious@hometownirs.com
+    [password] => tlJ011083
+    [comapanyname] => HOMETOWN I.R.S.
+    [nofieldworkers] => 2
+    [phoneno] => 8053808587
+    [subdomain] => hometown-i-r-s
+)
+Array
+(
+    [firstname] => Adam 
+    [lastname] =>  Glover
+    [email] => Adam.Glover@vuesecurity.co.uk
+    [password] => Cr4zydog
+    [comapanyname] => VUE SECURITY Ltd
+    [nofieldworkers] => 1
+    [phoneno] => 01628639756
+    [subdomain] => vue-security-ltd
+)
+Array
+(
+    [firstname] => Ram
+    [lastname] =>  
+    [email] => Ram@nybble.co.uk
+    [password] => Ny88le15
+    [comapanyname] => Nybble
+    [nofieldworkers] => 3
+    [phoneno] => 07987654321
+    [subdomain] => nybble
+)
+Array
+(
+    [firstname] => Mark 
+    [lastname] =>  Webb
+    [email] => markwebb2@gmail.com
+    [password] => orange
+    [comapanyname] => Havering Lawn Care
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => havering-lawn-care
+)
+Array
+(
+    [firstname] => luke
+    [lastname] =>  
+    [email] => lukecollier1989@gmail.com
+    [password] => audemars
+    [comapanyname] => Countrywide
+    [nofieldworkers] => 5
+    [phoneno] => 07966557511
+    [subdomain] => countrywide
+)
+Array
+(
+    [firstname] => luke
+    [lastname] =>  
+    [email] => lukecollier@me.com
+    [password] => yellow123
+    [comapanyname] => countrywide
+    [nofieldworkers] => 4
+    [phoneno] => 07966557511
+    [subdomain] => countrywideg
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Lawson
+    [email] => info@eco-clean.co.uk
+    [password] => Newthrums2
+    [comapanyname] => Eco Cleaning Services & Maintenance
+    [nofieldworkers] => 1
+    [phoneno] => 08455194011
+    [subdomain] => eco-cleaning-services-maintenance
+)
+Array
+(
+    [firstname] => Michael 
+    [lastname] =>  Porter
+    [email] => michael@themobilegaragepeople.co.uk
+    [password] => krytie01
+    [comapanyname] => The Mobile Garage People
+    [nofieldworkers] => 2
+    [phoneno] => 07764610439
+    [subdomain] => the-mobile-garage-people
+)
+Array
+(
+    [firstname] => Mike
+    [lastname] =>  
+    [email] => magic_lava@hotmail.com
+    [password] => pumpk1Nz
+    [comapanyname] => magiclava
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => magiclava
+)
+Array
+(
+    [firstname] => Gareth 
+    [lastname] =>  Hughes
+    [email] => ghughes@involve.vc
+    [password] => Quantum209!
+    [comapanyname] => Involve
+    [nofieldworkers] => 20
+    [phoneno] => 01925 713999
+    [subdomain] => involve
+)
+Array
+(
+    [firstname] => John 
+    [lastname] =>  bellfield
+    [email] => service@eclipsefitness.org
+    [password] => eclipse6b
+    [comapanyname] => Eclipse Fitness Services UK 
+    [nofieldworkers] => 3-5
+    [phoneno] => 0845 8620191
+    [subdomain] => eclipse-fitness-services-uk
+)
+Array
+(
+    [firstname] => Sean
+    [lastname] =>  
+    [email] => Sean&streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream telematics 
+    [nofieldworkers] => 3
+    [phoneno] => 08438861121
+    [subdomain] => stream-telematics
+)
+Array
+(
+    [firstname] => Ray
+    [lastname] =>  
+    [email] => Ray@excellentresultsinc.com
+    [password] => 105castillejos
+    [comapanyname] => Excellent results inv
+    [nofieldworkers] => 1
+    [phoneno] => 954 815 9221
+    [subdomain] => excellent-results-inv
+)
+Array
+(
+    [firstname] => Jon Barton (PBA Solutions) 
+    [lastname] =>  Barton
+    [email] => jon.barton@pba-solutions.com
+    [password] => C0t0neaster
+    [comapanyname] => pba
+    [nofieldworkers] => 3
+    [phoneno] => 07528 784782
+    [subdomain] => pba
+)
+Array
+(
+    [firstname] => Ryan
+    [lastname] =>  
+    [email] => ryansherwood@genesislifts.co.uk
+    [password] => Genesis16.
+    [comapanyname] => Genesis Lifts Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 07883064358
+    [subdomain] => genesislifts
+)
+Array
+(
+    [firstname] => Matt 
+    [lastname] =>  Clark
+    [email] => m.clark@activ-group.co.uk
+    [password] => T3sting
+    [comapanyname] => Activ
+    [nofieldworkers] => 1
+    [phoneno] => 01775722334
+    [subdomain] => activ
+)
+Array
+(
+    [firstname] => Ian
+    [lastname] =>  
+    [email] => ian@kaluca.co.uk
+    [password] => Lucas2110!
+    [comapanyname] => Kaluca Limited
+    [nofieldworkers] => 1
+    [phoneno] => 07545 011814
+    [subdomain] => kaluca-limited
+)
+Array
+(
+    [firstname] => facundo
+    [lastname] =>  
+    [email] => f370648@trbvm.com
+    [password] => qwerty
+    [comapanyname] => fmq
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => fmq
+)
+Array
+(
+    [firstname] => facundo 
+    [lastname] =>  Miquel
+    [email] => facundoMiquel@yahoo.com
+    [password] => w3lc0m3
+    [comapanyname] => fmq
+    [nofieldworkers] => 2
+    [phoneno] => +54 911 3468 2002
+    [subdomain] => fmq
+)
+Array
+(
+    [firstname] => Nathan 
+    [lastname] =>  Jones
+    [email] => info@purewatercleaning.co.uk
+    [password] => Daffodil199
+    [comapanyname] => Pure Water Window Cleaning 
+    [nofieldworkers] => 2
+    [phoneno] => 01270 747784
+    [subdomain] => pure-water-window-cleaning
+)
+Array
+(
+    [firstname] => Yuki 
+    [lastname] =>  Akiyama
+    [email] => akiyama@multisoup.co.jp
+    [password] => ms0420
+    [comapanyname] => multisoup
+    [nofieldworkers] => 2
+    [phoneno] => 03-3518-9013
+    [subdomain] => multisoup
+)
+Array
+(
+    [firstname] => mieda
+    [lastname] =>  
+    [email] => mieda@multisoup.co.jp
+    [password] => 19730113
+    [comapanyname] => mieda
+    [nofieldworkers] => 2
+    [phoneno] => 
+    [subdomain] => mieda
+)
+Array
+(
+    [firstname] => James 
+    [lastname] =>  Lowe
+    [email] => office@reidheat.co.uk
+    [password] => ReidHEAT21D
+    [comapanyname] => Ried
+    [nofieldworkers] => 6
+    [phoneno] => 08445616156
+    [subdomain] => ried
+)
+Array
+(
+    [firstname] => Alec 
+    [lastname] =>  Surridge
+    [email] => alec@truesoundacoustics.co.za
+    [password] => Truesound2015
+    [comapanyname] => Truesound Acoustics
+    [nofieldworkers] => 4
+    [phoneno] => 27117081983
+    [subdomain] => truesound-acoustics
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => jon@browserdaily.com
+    [password] => Lbwbjbjb1
+    [comapanyname] => Browser Daily
+    [nofieldworkers] => 1
+    [phoneno] => 8605540445
+    [subdomain] => browserdaily
+)
+Array
+(
+    [firstname] => Michael 
+    [lastname] =>  Heinrichs
+    [email] => michael.heinrichs@imsware.de
+    [password] => trontroff
+    [comapanyname] => IMS
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => ims
+)
+Array
+(
+    [firstname] => Nzang
+    [lastname] =>  
+    [email] => asarebampoewilson@hotmail.com
+    [password] => Life+legacy=success
+    [comapanyname] => LegacyPM
+    [nofieldworkers] => 3
+    [phoneno] => 07417429775
+    [subdomain] => legacypm
+)
+Array
+(
+    [firstname] => Sam 
+    [lastname] =>  Harrison
+    [email] => pmsllc2@aol.com
+    [password] => 1952samh
+    [comapanyname] => Property Maintenance Solutions LLC
+    [nofieldworkers] => 1
+    [phoneno] => 5023782645
+    [subdomain] => property-maintenance-solutions-llc
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Kirkpatrick
+    [email] => paul.kirkpatrick@edenfutures.org
+    [password] => starman1
+    [comapanyname] => Eden Futures
+    [nofieldworkers] => 7
+    [phoneno] => 07803 187480
+    [subdomain] => eden-futures
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Kirkpatrick
+    [email] => paul.kirkpatrick@edenfutures.org
+    [password] => starman1
+    [comapanyname] => Eden Futures
+    [nofieldworkers] => 7
+    [phoneno] => 07803 187480
+    [subdomain] => eden-futures
+)
+Array
+(
+    [firstname] => nevil
+    [lastname] =>  
+    [email] => desaisns79@ymail.com
+    [password] => 123456
+    [comapanyname] => fasttrack services
+    [nofieldworkers] => 5
+    [phoneno] => 9033582084
+    [subdomain] => fasttrack-services
+)
+Array
+(
+    [firstname] => Jared
+    [lastname] =>  
+    [email] => Jared@lawnnorderinc.com
+    [password] => 9255371982Am7!7
+    [comapanyname] => Lawn n' Order, Inc.
+    [nofieldworkers] => 2-3
+    [phoneno] => 
+    [subdomain] => lawn-n-order-inc
+)
+Array
+(
+    [firstname] => Jen
+    [lastname] =>  
+    [email] => jenfordham@live.co.uk
+    [password] => moomoo27
+    [comapanyname] => Centrado
+    [nofieldworkers] => 4
+    [phoneno] => 07515 691645
+    [subdomain] => centrado
+)
+Array
+(
+    [firstname] => Ross 
+    [lastname] =>  Facta
+    [email] => ross.facta@abparry.com
+    [password] => abparry1
+    [comapanyname] => ABParry
+    [nofieldworkers] => 3
+    [phoneno] => 07801852465
+    [subdomain] => abparry
+)
+Array
+(
+    [firstname] => Luke 
+    [lastname] =>  Child
+    [email] => Luke@tlcservices.org
+    [password] => 13Frankie48
+    [comapanyname] => Tlc services
+    [nofieldworkers] => 1
+    [phoneno] => 07809 686658
+    [subdomain] => tlc-services
+)
+Array
+(
+    [firstname] => alex
+    [lastname] =>  
+    [email] => amiranda@softgrouprd.com
+    [password] => ampl2001
+    [comapanyname] => Soft Group
+    [nofieldworkers] => 2
+    [phoneno] => 
+    [subdomain] => softgroup
+)
+Array
+(
+    [firstname] => Henri
+    [lastname] =>  
+    [email] => enquiries@loc8me.co.uk
+    [password] => pearldrum
+    [comapanyname] => Loc8me
+    [nofieldworkers] => 1
+    [phoneno] => 07580287133
+    [subdomain] => loc8me
+)
+Array
+(
+    [firstname] => Rosie 
+    [lastname] =>  Griffin
+    [email] => rosie.griffin@kiasugroup.co.uk
+    [password] => Kiasu123
+    [comapanyname] => Kiasu Group
+    [nofieldworkers] => 10
+    [phoneno] => 0208 988 1662
+    [subdomain] => kiasu-group
+)
+Array
+(
+    [firstname] => Grant 
+    [lastname] =>  Perry
+    [email] => grant.perry@ericneville.co.uk
+    [password] => sy217df
+    [comapanyname] => Eric Neville Catering Services
+    [nofieldworkers] => 2
+    [phoneno] => 01938553980
+    [subdomain] => eric-neville-catering-services
+)
+Array
+(
+    [firstname] => Grant 
+    [lastname] =>  Perry
+    [email] => grant.perry@ericneville.co.uk
+    [password] => sy217df
+    [comapanyname] => Eric Neville Catering Services
+    [nofieldworkers] => 2
+    [phoneno] => 01938553980
+    [subdomain] => eric-neville-catering-services
+)
+Array
+(
+    [firstname] => Mark
+    [lastname] =>  
+    [email] => Mark@mvplumbingandheating.co.uk
+    [password] => Toasty2014
+    [comapanyname] => Mv plumbing and heating ltd
+    [nofieldworkers] => 2
+    [phoneno] => 07766111323
+    [subdomain] => mv-plumbing-and-heating-ltd
+)
+Array
+(
+    [firstname] => Sean 
+    [lastname] =>  Dixon
+    [email] => sean@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream Dynamics Limited
+    [nofieldworkers] => 3
+    [phoneno] => +447841342071
+    [subdomain] => stream-dynamics-limited
+)
+Array
+(
+    [firstname] => PHILIP 
+    [lastname] =>  DIXON
+    [email] => info@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream
+    [nofieldworkers] => 3
+    [phoneno] => 01234567890
+    [subdomain] => stream
+)
+Array
+(
+    [firstname] => Sean 
+    [lastname] =>  Dixon
+    [email] => info@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream Telematics
+    [nofieldworkers] => 3
+    [phoneno] => 01234567890
+    [subdomain] => stream-telematics
+)
+Array
+(
+    [firstname] => Max
+    [lastname] =>  
+    [email] => maxjkmorley@gmail.com
+    [password] => 1231
+    [comapanyname] => Hardy Electrial
+    [nofieldworkers] => 4
+    [phoneno] => 066080 567488
+    [subdomain] => hardy-electrial
+)
+Array
+(
+    [firstname] => Sean 
+    [lastname] =>  Dixon
+    [email] => sean@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => STREAM DYNAMICS LIMITED
+    [nofieldworkers] => 3
+    [phoneno] => 08438861121
+    [subdomain] => stream-dynamics-limited
+)
+Array
+(
+    [firstname] => Sean 
+    [lastname] =>  Dixon
+    [email] => sean@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream Dynamics Limited
+    [nofieldworkers] => 3
+    [phoneno] => 08438861121
+    [subdomain] => stream-dynamics-limited
+)
+Array
+(
+    [firstname] => Chance 
+    [lastname] =>  Korte
+    [email] => chance@chancekorte.com
+    [password] => Z_@xixi77
+    [comapanyname] => Chance Korte VIP Solutions
+    [nofieldworkers] => 2
+    [phoneno] => 7026605060
+    [subdomain] => chancekorte
+)
+Array
+(
+    [firstname] => Rosie 
+    [lastname] =>  Griffin
+    [email] => rosie.griffin@kiasugroup.co.uk
+    [password] => Kiasu123
+    [comapanyname] => Kiasu Group
+    [nofieldworkers] => 10
+    [phoneno] => 0208 988 1662
+    [subdomain] => kiasu-group
+)
+Array
+(
+    [firstname] => Sean
+    [lastname] =>  
+    [email] => info@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream
+    [nofieldworkers] => 3
+    [phoneno] => 08438861121
+    [subdomain] => streamtelematics
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => magic_lava@hotmail.com
+    [password] => 
+    [comapanyname] => mambo
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => mambo
+)
+Array
+(
+    [firstname] => dgs
+    [lastname] =>  
+    [email] => f@gmail.com
+    [password] => chadnan
+    [comapanyname] => chandan
+    [nofieldworkers] => 3
+    [phoneno] => 98364566545
+    [subdomain] => chandan
+)
+Array
+(
+    [firstname] => Alessa
+    [lastname] =>  
+    [email] => Arod3662@gmail.com
+    [password] => kenmore1
+    [comapanyname] => Air Optix
+    [nofieldworkers] => 3
+    [phoneno] => Rodriguez 
+    [subdomain] => airoptix
+)
+Array
+(
+    [firstname] => Alessa 
+    [lastname] =>  Rodriguez
+    [email] => arod3662@gmail.com
+    [password] => always11
+    [comapanyname] => Air Optix 
+    [nofieldworkers] => 4
+    [phoneno] => 2103869622
+    [subdomain] => air-optix
+)
+Array
+(
+    [firstname] => Nzang
+    [lastname] =>  
+    [email] => asarebampoewilson@hotmail.com
+    [password] => Life+legacy=success
+    [comapanyname] => LegacyPM
+    [nofieldworkers] => 3
+    [phoneno] => 07417429775
+    [subdomain] => legacypm
+)
+Array
+(
+    [firstname] => chandra
+    [lastname] =>  
+    [email] => varsani
+    [password] => 
+    [comapanyname] => Niskala
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => niskala
+)
+Array
+(
+    [firstname] => Ben 
+    [lastname] =>  Williams
+    [email] => Benrwilliams@hotmail.co.uk
+    [password] => churchill
+    [comapanyname] => Maintain Total Property Care Ltd
+    [nofieldworkers] => 20
+    [phoneno] => 07960211021
+    [subdomain] => maintain-total-property-care-ltd
+)
+Array
+(
+    [firstname] => astrit
+    [lastname] =>  
+    [email] => albitech@t-home.mk
+    [password] => 123456.
+    [comapanyname] => sitimobil
+    [nofieldworkers] => 10000
+    [phoneno] => +38971263220
+    [subdomain] => sitimobil
+)
+Array
+(
+    [firstname] => astrit
+    [lastname] =>  
+    [email] => albitech@t-home.mk
+    [password] => Siti2121.
+    [comapanyname] => sitimobil
+    [nofieldworkers] => 10000
+    [phoneno] => +38971263220
+    [subdomain] => sitimobil
+)
+Array
+(
+    [firstname] => Steve 
+    [lastname] =>  Tremblay
+    [email] => mouvementopposition@hotmail.com
+    [password] => WorkForce
+    [comapanyname] => Extermination Steve
+    [nofieldworkers] => 3
+    [phoneno] => 450-435-3489
+    [subdomain] => steve
+)
+Array
+(
+    [firstname] => Alex
+    [lastname] =>  
+    [email] => alex@lovemac.co.uk
+    [password] => m3827e
+    [comapanyname] => Lovemac
+    [nofieldworkers] => 2
+    [phoneno] => 07523657672
+    [subdomain] => lovemac
+)
+Array
+(
+    [firstname] => kalvin 
+    [lastname] =>  campbell
+    [email] => craven@cpaa.co
+    [password] => facebook11
+    [comapanyname] => cpaa
+    [nofieldworkers] => 2
+    [phoneno] => 07936956935
+    [subdomain] => cpaa
+)
+Array
+(
+    [firstname] => Phil 
+    [lastname] =>  Cox
+    [email] => phil.jcox@yahoo.co.uk
+    [password] => Louisa2010
+    [comapanyname] => Envision Landscapes
+    [nofieldworkers] => 1
+    [phoneno] => 07784238439
+    [subdomain] => envision-landscapes
+)
+Array
+(
+    [firstname] => Mike 
+    [lastname] =>  Hackett
+    [email] => myh@djj.com
+    [password] => Djj54321
+    [comapanyname] => DJJ
+    [nofieldworkers] => 10
+    [phoneno] => 513-419-6058
+    [subdomain] => djj
+)
+Array
+(
+    [firstname] => Mike 
+    [lastname] =>  Hackett
+    [email] => myh@djj.com
+    [password] => Djj54321
+    [comapanyname] => djj
+    [nofieldworkers] => 10
+    [phoneno] => 513-419-6058
+    [subdomain] => djj
+)
+Array
+(
+    [firstname] => Kate Amos 
+    [lastname] =>  
+    [email] => kateamos@inclusioncare.com
+    [password] => Miller1
+    [comapanyname] => Eden Futures
+    [nofieldworkers] => 3
+    [phoneno] => +441684857520
+    [subdomain] => eden-futures
+)
+Array
+(
+    [firstname] => Zafer 
+    [lastname] =>  al
+    [email] => bursamekan@gmail.com
+    [password] => sistem54
+    [comapanyname] => Bursa Mekan
+    [nofieldworkers] => 10
+    [phoneno] => 5324729322
+    [subdomain] => bursamekan
+)
+Array
+(
+    [firstname] => Oliver 
+    [lastname] =>  Craven
+    [email] => oliver@northernenergy.org
+    [password] => brazil06
+    [comapanyname] => Northern Energy
+    [nofieldworkers] => 2
+    [phoneno] => 07460440660
+    [subdomain] => northern-energy
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Johnston
+    [email] => Locksmiths2u@live.co.uk
+    [password] => Sinead77
+    [comapanyname] => PNJ Security ltd
+    [nofieldworkers] => 8
+    [phoneno] => 07771366647
+    [subdomain] => pnj-security-ltd
+)
+Array
+(
+    [firstname] => Colin Cunningham 
+    [lastname] =>  
+    [email] => info@eccleaningservices.co.uk 
+    [password] => k64nfo3d
+    [comapanyname] => Easy Cleaners Cleaning Services Ltd 
+    [nofieldworkers] => 1
+    [phoneno] => 07594798812 
+    [subdomain] => easy-cleaners-cleaning-services-ltd
+)
+Array
+(
+    [firstname] => Bill
+    [lastname] =>  
+    [email] => magic_lava@hotmail.com
+    [password] => billandben
+    [comapanyname] => billanben
+    [nofieldworkers] => 1
+    [phoneno] => 12345
+    [subdomain] => billanben
+)
+Array
+(
+    [firstname] => James
+    [lastname] =>  
+    [email] => James@pdqwindows.co.uk
+    [password] => chesh1re3
+    [comapanyname] => PDQ TRADE GROUP LIMITED
+    [nofieldworkers] => 4
+    [phoneno] => Cheshire
+    [subdomain] => pdq
+)
+Array
+(
+    [firstname] => Geoff 
+    [lastname] =>  Soe-Paing
+    [email] => geoff@kishornltd.co.uk
+    [password] => kishorn12
+    [comapanyname] => Kishorn Insulations
+    [nofieldworkers] => 
+    [phoneno] => 07714 352295
+    [subdomain] => kishorn-insulations
+)
+Array
+(
+    [firstname] => Mark 
+    [lastname] =>  Westley
+    [email] => mark.westley@nenedata.com
+    [password] => Taylor01!
+    [comapanyname] => Nene Data & Electrical Ltd
+    [nofieldworkers] => 6
+    [phoneno] => 01604 422722
+    [subdomain] => nene-data-electrical-ltd
+)
+Array
+(
+    [firstname] => tspc
+    [lastname] =>  
+    [email] => info@tspc.gr
+    [password] => tspcstore
+    [comapanyname] => Tspc
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => tspc
+)
+Array
+(
+    [firstname] => tspc
+    [lastname] =>  
+    [email] => info@tspc.gr
+    [password] => 
+    [comapanyname] => Tspc
+    [nofieldworkers] => 1
+    [phoneno] => 
+    [subdomain] => tspc
+)
+Array
+(
+    [firstname] => Kate Amos 
+    [lastname] =>  
+    [email] => kateamos@inclusioncare.com
+    [password] => Edenfutures
+    [comapanyname] => Inclusion Care 
+    [nofieldworkers] => 3
+    [phoneno] => +441684857522
+    [subdomain] => Eden-futures
+)
+Array
+(
+    [firstname] => Sean
+    [lastname] =>  
+    [email] => info@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream Dynamics Limited
+    [nofieldworkers] => 3
+    [phoneno] => 08438861121
+    [subdomain] => stream-dynamics-limited
+)
+Array
+(
+    [firstname] => Clare 
+    [lastname] =>  Edwards
+    [email] => clare@exceldoors.co.uk
+    [password] => Exceldoors1
+    [comapanyname] => Excel Automatic Doors Limited
+    [nofieldworkers] => 3
+    [phoneno] => 01925596210
+    [subdomain] => excel-automatic-doors-limited
+)
+Array
+(
+    [firstname] => elumalai
+    [lastname] =>  
+    [email] => fixithomeservice@gmail.com
+    [password] => fixit@1
+    [comapanyname] => Fixit
+    [nofieldworkers] => 2
+    [phoneno] => 9962779266
+    [subdomain] => fixit
+)
+Array
+(
+    [firstname] => Clare 
+    [lastname] =>  Edwards
+    [email] => clare@exceldoors.co.uk
+    [password] => Exceldoors1
+    [comapanyname] => Excel Automatic Doors Limited
+    [nofieldworkers] => 3
+    [phoneno] => 01925596210
+    [subdomain] => excel-automatic-doors-limited
+)
+Array
+(
+    [firstname] => Dean
+    [lastname] =>  
+    [email] => liszewski@hotmail.co.uk
+    [password] => aimelectrical
+    [comapanyname] => Aim Electrical
+    [nofieldworkers] => 6
+    [phoneno] => 078 81616645
+    [subdomain] => aim-electrical
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Shoulder
+    [email] => Paul.shoulder@sillarsproperties.co.uk
+    [password] => 17drurY34=
+    [comapanyname] => Sillars Properties Limited
+    [nofieldworkers] => 1
+    [phoneno] => 01325 523756
+    [subdomain] => sillars-properties-limited
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Shoulder
+    [email] => paul.shoulder@sillarsproperties.co.uk
+    [password] => 17drurY34=
+    [comapanyname] => Sillars Properties Limtied
+    [nofieldworkers] => 1
+    [phoneno] => 01325 523756
+    [subdomain] => sillars-properties-limtied
+)
+Array
+(
+    [firstname] => Nathan
+    [lastname] =>  
+    [email] => nathan@sashwindowssussex.co.uk
+    [password] => allan44
+    [comapanyname] => Sash Window Restorations (Sussex) Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 07794785606
+    [subdomain] => sash-window-restorations-sussex-ltd
+)
+Array
+(
+    [firstname] => Sean 
+    [lastname] =>  Dixon
+    [email] => sean@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream Dynamics Limited
+    [nofieldworkers] => 3
+    [phoneno] => 08438861121
+    [subdomain] => stream-dynamics-limited
+)
+Array
+(
+    [firstname] => Sean
+    [lastname] =>  
+    [email] => seansdixon@gmail.com
+    [password] => letmein123
+    [comapanyname] => SDL
+    [nofieldworkers] => 3
+    [phoneno] => Dixonn
+    [subdomain] => sdl
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => soepaing@bluebottle.com
+    [password] => 
+    [comapanyname] => Geoff
+    [nofieldworkers] => 3
+    [phoneno] => 07775993708
+    [subdomain] => geoff
+)
+Array
+(
+    [firstname] => Sean
+    [lastname] =>  
+    [email] => sean@streamdynamics.co.uk
+    [password] => letmein123
+    [comapanyname] => Stream Dynamics
+    [nofieldworkers] => 
+    [phoneno] => 08436651121
+    [subdomain] => stream-dynamics
+)
+Array
+(
+    [firstname] => Clark 
+    [lastname] =>  Scrivener
+    [email] => cpmadmin@bigpond.com
+    [password] => cpmcpmworkforce
+    [comapanyname] => Coastal Pest Management Pty Ltd
+    [nofieldworkers] => 1
+    [phoneno] => 0418913921
+    [subdomain] => coastal-pest-management-pty-ltd
+)
+Array
+(
+    [firstname] => Anthony 
+    [lastname] =>  Zammit
+    [email] => tony@21cbs.co.uk
+    [password] => passworkd01
+    [comapanyname] => 21st Century Building Services Ltd
+    [nofieldworkers] => 20
+    [phoneno] => 07976706135
+    [subdomain] => 21st-century-building-services-ltd
+)
+Array
+(
+    [firstname] => 1
+    [lastname] =>  
+    [email] => 1
+    [password] => 1
+    [comapanyname] => 1
+    [nofieldworkers] => 1
+    [phoneno] => 1
+    [subdomain] => 1
+)
+Array
+(
+    [firstname] => David 
+    [lastname] =>  Cairns
+    [email] => davidc@speedster-it.com
+    [password] => Morganaero8
+    [comapanyname] => Speedster-IT Ltd
+    [nofieldworkers] => 4
+    [phoneno] => +442030111234
+    [subdomain] => speedster
+)
+Array
+(
+    [firstname] => Ifraaz 
+    [lastname] =>  Joseph
+    [email] => support@geekwire.co.nz
+    [password] => geekwire0700274
+    [comapanyname] => Geekwire Technical Services
+    [nofieldworkers] => 5
+    [phoneno] => +64274384335
+    [subdomain] => geekwire
+)
+Array
+(
+    [firstname] => kjlkjlkj
+    [lastname] =>  
+    [email] => dsfdf@dfdf.com
+    [password] => hgjhgjhg
+    [comapanyname] => test
+    [nofieldworkers] => 7
+    [phoneno] => 987987987
+    [subdomain] => testhghg
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Fisher
+    [email] => paul@aafisher.co.uk
+    [password] => 
+    [comapanyname] => A. A. Fisher (Properties) Ltd
+    [nofieldworkers] => 
+    [phoneno] => 448712883935
+    [subdomain] => 448712883935
+)
+Array
+(
+    [firstname] => Paul 
+    [lastname] =>  Fisher
+    [email] => paul@aafisher.co.uk
+    [password] => GBIHlj3$IzH%N0X
+    [comapanyname] => A. A. Fisher (Properties) Ltd
+    [nofieldworkers] => 4
+    [phoneno] => 448712883935
+    [subdomain] => aafisher
+)
+Array
+(
+    [firstname] => testingwfverb
+    [lastname] =>  
+    [email] => testingwfverb@yopmail.com
+    [password] => testingwfverb
+    [comapanyname] => testingwfverb
+    [nofieldworkers] => 2
+    [phoneno] => 4444444444
+    [subdomain] => testingwfverb
+)
+Array
+(
+    [firstname] => Michael 
+    [lastname] =>  gibbs
+    [email] => Michael@endesol.ie
+    [password] => pa21ev12
+    [comapanyname] => Engineering and design solutions 
+    [nofieldworkers] => 2
+    [phoneno] => 00353567725943
+    [subdomain] => engineering-and-design-solutions
+)
+Array
+(
+    [firstname] => dfsdafsdsadfd
+    [lastname] =>  
+    [email] => sfdfsadsd
+    [password] => fasdsadsad
+    [comapanyname] => sfsa
+    [nofieldworkers] => ssdasdafsd
+    [phoneno] => asdafsda
+    [subdomain] => sfsaasfdssdfadsf
+    [industries] => Plumbers Building & Construction
+)
+Array
+(
+    [firstname] => Christian 
+    [lastname] =>  Bowie
+    [email] => bowie.christian@gmail.com
+    [password] => progetto01
+    [comapanyname] => Total Pest Management
+    [nofieldworkers] => 7
+    [phoneno] => 0403233650
+    [subdomain] => tpm
+    [industries] => Pest control
+)
+Array
+(
+    [firstname] => Nick
+    [lastname] =>  
+    [email] => lalicn29@me.com
+    [password] => mirage123
+    [comapanyname] => KOZCO ENERGY GROUP
+    [nofieldworkers] => 8
+    [phoneno] => 0432378865
+    [subdomain] => kozco
+    [industries] => HVAC
+)
+Array
+(
+    [firstname] => Dean 
+    [lastname] =>  Shepherd
+    [email] => dean@evo.pm
+    [password] => countyhouse
+    [comapanyname] => Evo
+    [nofieldworkers] => 18
+    [phoneno] => 07738635015
+    [subdomain] => evo
+    [industries] => Property maintenance
+)
+Array
+(
+    [firstname] => Richard
+    [lastname] =>  
+    [email] => rickfordham@btconnect.com
+    [password] => Rick3811
+    [comapanyname] => Graphic Engineering
+    [nofieldworkers] => 2
+    [phoneno] => +447836735060
+    [subdomain] => GraphicEngineering
+    [industries] => Electricians
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => 
+    [password] => 
+    [comapanyname] => Morley Fencing 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => morley-fencing-landscaping
+    [industries] => 
+)
+Array
+(
+    [firstname] => Test
+    [lastname] =>  
+    [email] => pecadmin@icloud.com
+    [password] => PECgliwice1
+    [comapanyname] => Test
+    [nofieldworkers] => 4
+    [phoneno] => 0048555444333
+    [subdomain] => pec
+    [industries] => Electricians
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => 
+    [password] => 
+    [comapanyname] => 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => test
+    [industries] => 
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => 
+    [password] => 
+    [comapanyname] => undefined
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => mr-ltd
+    [industries] => 
+)
+Array
+(
+    [firstname] => Wesley 
+    [lastname] =>  Warner
+    [email] => wesley@westecproperty.co.uk
+    [password] => westec100
+    [comapanyname] => WesTec Group Ltd
+    [nofieldworkers] => 5
+    [phoneno] => 07985215829
+    [subdomain] => westec-group-ltd
+    [industries] => 
+)
+Array
+(
+    [firstname] => Wesley 
+    [lastname] =>  Warner
+    [email] => wesley@westecproperty.co.uk
+    [password] => westec100
+    [comapanyname] => WesTec Group Ltd
+    [nofieldworkers] => 5
+    [phoneno] => 07985215829
+    [subdomain] => westecgroup
+    [industries] => Property maintenance
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => 
+    [password] => 
+    [comapanyname] => undefined
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => kumotech
+    [industries] => 
+)
+Array
+(
+    [firstname] => erpowerjwepoij
+    [lastname] =>  
+    [email] => lkjlkj@asdsd.com
+    [password] => 876876876876
+    [comapanyname] => lkjlkj
+    [nofieldworkers] => 2
+    [phoneno] => 98987987
+    [subdomain] => lkjlkj
+    [industries] => 
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => email@gmail
+    [password] => 
+    [comapanyname] => 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => subman
+    [industries] => 
+)
+Array
+(
+    [firstname] => Scott 
+    [lastname] =>  Field
+    [email] => scott.field@serco.com
+    [password] => Thomas2012
+    [comapanyname] => Serco
+    [nofieldworkers] => 12
+    [phoneno] => 07834 144313
+    [subdomain] => serco
+    [industries] => Electricians
+)
+Array
+(
+    [firstname] => Felix 
+    [lastname] =>  Martinez
+    [email] => bellaluci@icloud.com
+    [password] => Biscocho5
+    [comapanyname] => Bella Luci, Inc.
+    [nofieldworkers] => 5
+    [phoneno] => 3057991473
+    [subdomain] => bellaluci
+    [industries] => Electricians
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => 
+    [password] => 
+    [comapanyname] => Morley Fencing 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => morley-fencing-
+    [industries] => 
+)
+Array
+(
+    [firstname] => Felix 
+    [lastname] =>  Martinez
+    [email] => bellaluci@icloud.com
+    [password] => Bisocho5
+    [comapanyname] => Bella Luci
+    [nofieldworkers] => 5
+    [phoneno] => 3057991473
+    [subdomain] => bellaluci
+    [industries] => Electricians
+)
+Array
+(
+    [firstname] => paul
+    [lastname] =>  
+    [email] => paul@bmfonline.co.uk
+    [password] => workforcepassword
+    [comapanyname] => bmf limited
+    [nofieldworkers] => 10
+    [phoneno] => 01132660096
+    [subdomain] => bmf-limited
+    [industries] => Plumbers Building & Construction
+)
+Array
+(
+    [firstname] => Thorsten 
+    [lastname] =>  Weber
+    [email] => shkhaustechnik@gmx.net
+    [password] => password8
+    [comapanyname] => SHK Haustechnik
+    [nofieldworkers] => 10
+    [phoneno] => +4947110815
+    [subdomain] => shk-haustechnik
+    [industries] => 
+)
+Array
+(
+    [firstname] => dfsdsd
+    [lastname] =>  
+    [email] => lkjlkj@sdsd.com
+    [password] => kjlkjljlkj
+    [comapanyname] => kllkjlk
+    [nofieldworkers] => 2
+    [phoneno] => 0298098
+    [subdomain] => kllkjlk
+    [industries] => 
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => 
+    [password] => 
+    [comapanyname] => 
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => capital-waste
+    [industries] => 
+)
+Array
+(
+    [firstname] => 
+    [lastname] =>  
+    [email] => workforc_userd
+    [password] => wfdb@$%1ddsf
+    [comapanyname] => Your Companyt
+    [nofieldworkers] => 
+    [phoneno] => 
+    [subdomain] => your-companyt
+    [industries] => 
+)
+Array
+(
+    [email] => sadfdsads@sadfsdaa.com
+    [password] => asdfsdafdsdasd
+    [comapanyname] => sdfsadf
+    [subdomain] => sdfsadf
+)
+Array
+(
+    [email] => ffdsfsdfdsdffdffsdff@sadfsdasd.com
+    [password] => sdfdsdfsdfdsfsdfdsf
+    [comapanyname] => dfdsffdsfddfsd
+    [subdomain] => dfdsffdsfddfsd
+)
+Array
+(
+    [email] => dsfafsadf@safsdafdsad.com
+    [password] => dsafasdfds
+    [comapanyname] => sadfsdafdf
+    [subdomain] => sadfsdafdfsdffasdfdffds
+)
+Array
+(
+    [email] => fsdafsdfsd@asdf.com
+    [password] => sdfsdfdsds
+    [comapanyname] => asfsadfsdafds
+    [subdomain] => asfsadfsdafds
+)
+Array
+(
+    [email] => dgfggsgg@sddfgdfsg.com
+    [password] => gsdfgdsffg
+    [comapanyname] => sdgdsfgdfdfg
+    [subdomain] => sdgdsfgdfdfgsdsfggdgdf
+)
+Array
+(
+    [email] => dfdfs@asdfds.com
+    [password] => asfdasddfdfaf
+    [comapanyname] => sdfdsfdf
+    [subdomain] => sdfdsfdf
+)
+Array
+(
+    [email] => asdaddsddss@asdf.ocm
+    [password] => sadfdsfdsaf
+    [comapanyname] => asdasdsda
+    [subdomain] => asdasdsdaasddfsffsadf
+)
+Array
+(
+    [email] => fsdfsdfsdfsdfd@aasdfds.com
+    [password] => sdfsdafdfdsaffsdf
+    [comapanyname] => sdfsdfdsfds
+    [subdomain] => sdfsdfdsfdsfafdfas
+)
+Array
+(
+    [email] => sdfggdfs@sadfsadds.com
+    [password] => safsdaffdsafsfd
+    [comapanyname] => dfgdsffg
+    [subdomain] => dfgdsffg
+)
+Array
+(
+    [email] => sdgdfgsg@sdfdssgg.vom
+    [password] => dsgdsfgfgfgg
+    [comapanyname] => rgdfgfgfgfdff
+    [subdomain] => rgdfgfgfgfdff
+)
+Array
+(
+    [email] => sdgdfgfggfd@dsfgfdg.com
+    [password] => asdfdsaffdafds
+    [comapanyname] => gdfg fg sdfg dfdfgdfgdg
+    [subdomain] => gdfg-fg-sdfg-dfdfgdfgdg
+)
+Array
+(
+    [email] => dfsfsfsfdfs@asdf.com
+    [password] => sadfsddfff
+    [comapanyname] => sfasfs
+    [subdomain] => sfasfs
+)
+Array
+(
+    [email] => sfdasfdsfsd@sdfdsf.com
+    [password] => fsfsdffd
+    [comapanyname] => asdfdsaf
+    [subdomain] => fasdfdsafdsfdsa
+)
+Array
+(
+    [email] => zxcvxczvcxzv@asdfd.com
+    [password] => asdfsdaafdsafs
+    [comapanyname] => xzcvxczxczv
+    [subdomain] => dsfasdfsfdsafd
+)
+Array
+(
+    [email] => Ian@dcoolsolutions.co.uk
+    [password] => redseven7
+    [comapanyname] => undefined
+    [subdomain] => undefined
+)
+Array
+(
+    [email] => sdddfs@wfsdf.com
+    [password] => fsfdfddd
+    [comapanyname] => sdfsdfdf
+    [subdomain] => 
+)
+Array
+(
+    [email] => blairpatonplumbing@hotmail.co.uk
+    [password] => private123
+    [comapanyname] => blair paton
+    [subdomain] => 
+)
+Array
+(
+    [email] => blairpatonplumbing@hotmail.co.uk
+    [password] => private123
+    [comapanyname] => Blair Paton 
+    [subdomain] => 
+)
+Array
+(
+    [email] => mrelashvilialexandre@gmai.com
+    [password] => alexoo
+    [comapanyname] => standardoid
+    [subdomain] => 
+)
+Array
+(
+    [email] => Info@vuroltd.co.uk
+    [password] => Qwerty01
+    [comapanyname] => Vuro Ltd
+    [subdomain] => 
+)
+Array
+(
+    [email] => sdsad@ssadasd.com
+    [password] => 123456
+    [comapanyname] => test company
+    [subdomain] => 
+)
+Array
+(
+    [email] => email@teruser.com
+    [password] => 22222222
+    [comapanyname] => My Company
+    [subdomain] => 
+)
+Array
+(
+    [email] => email@gmail.com
+    [password] => asdfsadfdssdad
+    [comapanyname] => Your Company Name
+    [subdomain] => 
+)
+Array
+(
+    [email] => aasas@ssdsadd.com
+    [password] => 12121`2`1
+    [comapanyname] => testkjkj
+    [subdomain] => 
+)
+Array
+(
+    [email] => roland@threekrowns.com
+    [password] => 123456
+    [comapanyname] => Roland company
+    [subdomain] => 
+)
+Array
+(
+    [email] => gfhhfghhf@sdfg.vom
+    [password] => fghhfghhfgghg
+    [comapanyname] => fghfghfg
+    [subdomain] => 
+)
+Array
+(
+    [email] => email@sdfd.com
+    [password] => asfsdfsdd
+    [comapanyname] => Hello
+    [subdomain] => 
+)
+Array
+(
+    [email] => josephbunt1@gmail.com
+    [password] => brasil1!
+    [comapanyname] => contact pc
+    [subdomain] => 
+)
+Array
+(
+    [email] => roland@roland.com
+    [password] => Rolandwf2015
+    [comapanyname] => Testing from on-page form
+    [subdomain] => 
+)
+Array
+(
+    [email] => razzakind@yahoo.com
+    [password] => Forspend1$
+    [comapanyname] => razzakind@yahoo.com
+    [subdomain] => 
+)
+Array
+(
+    [email] => roland@awebsite.com
+    [password] => Rolandwf2015
+    [comapanyname] => test from pop-up signup
+    [subdomain] => 
+)
+Array
+(
+    [email] => ssdfafaf@sdfdsadsf.com
+    [password] => safsadfdsafsdfdsdf
+    [comapanyname] => asfsadfd
+    [subdomain] => 
+)
+Array
+(
+    [email] => Roland@roland.com
+    [password] => Rolandwf2015
+    [comapanyname] => Testing 14.58
+    [subdomain] => 
+)
+Array
+(
+    [email] => sales@parkpg.com.au
+    [password] => random101
+    [comapanyname] => Park Plumbing Group
+    [subdomain] => 
+)
+Array
+(
+    [email] => sales@parkpg.com.au
+    [password] => random101
+    [comapanyname] => Park Plumbing Group
+    [subdomain] => 
+)
+Array
+(
+    [email] => EricaHaynes@frontendjobs.co.uk
+    [password] => workgaps
+    [comapanyname] => FEJ Limited 
+    [subdomain] => 
+)
+Array
+(
+    [email] => ericahaynes@frontendjobs.co.uk
+    [password] => workgaps
+    [comapanyname] => FEJ limited
+    [subdomain] => 
+)
+Array
+(
+    [email] => marc@d-tfs.co.uk
+    [password] => ladder01
+    [comapanyname] => D-TECT Fire and Security
+    [subdomain] => 
+)
+Array
+(
+    [email] => rayayak@inboxstore.me
+    [password] => password1!
+    [comapanyname] => acme
+    [subdomain] => 
+)
+Array
+(
+    [email] => malikawais227@hotmail.com
+    [password] => babajee127
+    [comapanyname] => Ecoplan
+    [subdomain] => 
+)
+Array
+(
+    [email] => alnasri32@gmail.com
+    [password] => Yahoo05513
+    [comapanyname] => WE
+    [subdomain] => 
+)
+Array
+(
+    [email] => alnasiriku@gmail.com
+    [password] => Qaz12345
+    [comapanyname] => WSS
+    [subdomain] => 
+)
+Array
+(
+    [email] => daniel.snowdon@perfect-image.co.uk
+    [password] => perfect00**
+    [comapanyname] => Perfect Image
+    [subdomain] => 
+)
+Array
+(
+    [email] => jyvending@yahoo.com
+    [password] => Vending40
+    [comapanyname] => JY Vending Inc
+    [subdomain] => 
+)
+Array
+(
+    [email] => brian.ronin47@gmail.com
+    [password] => chunky47
+    [comapanyname] => ronin plumbing 
+    [subdomain] => 
+)
+Array
+(
+    [email] => info@checkelex.co.uk
+    [password] => gurumayi
+    [comapanyname] => Checkelex Limted
+    [subdomain] => 
+)
+Array
+(
+    [email] => stuartplumbers@mail.com
+    [password] => stuart100
+    [comapanyname] => plumbforce
+    [subdomain] => 
+)
+Array
+(
+    [email] => bladesprincess@sky.com
+    [password] => connoreoin0312
+    [comapanyname] => JPL Plumbing & Heating Ltd
+    [subdomain] => 
+)
+Array
+(
+    [email] => aaljishi@cloudnin9.com
+    [password] => burhama4721
+    [comapanyname] => Cloud Nine Technologies
+    [subdomain] => 
+)
+Array
+(
+    [email] => Bbnm@hotmail.com
+    [password] => 0238056833
+    [comapanyname] => Cvbnn
+    [subdomain] => 
+)
+Array
+(
+    [email] => sounddecisiontech@gmail.com
+    [password] => audiovox22
+    [comapanyname] => Sound Decision Ltd.
+    [subdomain] => 
+)
+Array
+(
+    [email] => lkjlj@mnhljlj.com
+    [password] => liuiuoiuoiu
+    [comapanyname] => jkjkjlkjlk
+    [subdomain] => 
+)
+Array
+(
+    [email] => zxcxz@adfsd.com
+    [password] => 1234456
+    [comapanyname] => zxczxczxc
+    [subdomain] => 
+)
+Array
+(
+    [email] => gagandeep@cwebconsultants.com
+    [password] => gd9857923113
+    [comapanyname] => asg
+    [subdomain] => 
+)
+Array
+(
+    [email] => Roland@roland.com
+    [password] => Rolandwf2015
+    [comapanyname] => testcompany
+    [subdomain] => 
+)
+Array
+(
+    [email] => juan@admin123.co
+    [password] => juanadmin123
+    [comapanyname] => admin123
+    [subdomain] => 
+)
+Array
+(
+    [email] => GHLJ@H.COM
+    [password] => KJLKJKL;
+    [comapanyname] => JJK
+    [subdomain] => 
+)
+Array
+(
+    [email] => dsd@f.com
+    [password] => erewrewwer
+    [comapanyname] => sdfds
+    [subdomain] => 
+)
